@@ -1,5 +1,8 @@
 {
 .appVersion = "1057";
+DisplayStrings = (
+D
+);
 classes = (
 {
 code = "B C D F G H J K L M N P Q R S T V W X Y Z";
@@ -251,7 +254,7 @@ value = -290;
 },
 {
 name = winDescent;
-value = 290;
+value = 291;
 },
 {
 name = winAscent;
@@ -293,7 +296,7 @@ value = -290;
 },
 {
 name = winDescent;
-value = 290;
+value = 291;
 },
 {
 name = winAscent;
