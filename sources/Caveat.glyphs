@@ -58,7 +58,7 @@ code = "a.ss02 e.ss02 i.ss02 o.ss02 u.ss02";
 name = lowerVoc2;
 }
 );
-copyright = "Copyright 2014 The All Hands Project Authors (https://github.com/googlefonts/allhands)";
+copyright = "Copyright 2014 The Caveat Project Authors (https://github.com/googlefonts/caveat)";
 customParameters = (
 {
 name = "Use Typo Metrics";
@@ -90,7 +90,7 @@ date = "2017-08-30 10:30:28 +0000";
 designer = "Pablo Impallari";
 designerURL = "http://www.impallari.com";
 disablesAutomaticAlignment = 1;
-familyName = "All Hands";
+familyName = Caveat;
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;";
