@@ -1,7 +1,7 @@
 {
-.appVersion = "1057";
+.appVersion = "1059";
 DisplayStrings = (
-D
+/.notdef
 );
 classes = (
 {
@@ -150503,37 +150503,42 @@ paths = (
 {
 closed = 1;
 nodes = (
-"456 -290 LINE",
-"911 960 LINE",
 "392 960 LINE",
-"-63 -290 LINE"
+"-63 -290 LINE",
+"456 -290 LINE",
+"911 960 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"820 960 LINE",
-"891 960 LINE",
-"28 -290 LINE",
-"-43 -290 LINE"
+"459 437 LINE",
+"473 897 LINE",
+"777 897 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"439 897 LINE",
-"818 897 LINE",
-"409 -228 LINE",
-"30 -228 LINE"
+"393 341 LINE",
+"64 -136 LINE",
+"407 810 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"412 960 LINE",
-"475 960 LINE",
-"436 -290 LINE",
-"373 -290 LINE"
+"455 329 LINE",
+"785 807 LINE",
+"441 -141 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"389 233 LINE",
+"375 -228 LINE",
+"71 -228 LINE"
 );
 }
 );
@@ -150621,37 +150626,42 @@ paths = (
 {
 closed = 1;
 nodes = (
-"456 -290 LINE",
-"911 960 LINE",
 "392 960 LINE",
-"-63 -290 LINE"
+"-63 -290 LINE",
+"456 -290 LINE",
+"911 960 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"820 960 LINE",
-"891 960 LINE",
-"28 -290 LINE",
-"-43 -290 LINE"
+"459 437 LINE",
+"473 897 LINE",
+"777 897 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"439 897 LINE",
-"818 897 LINE",
-"409 -228 LINE",
-"30 -228 LINE"
+"393 341 LINE",
+"64 -136 LINE",
+"407 810 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"412 960 LINE",
-"475 960 LINE",
-"436 -290 LINE",
-"373 -290 LINE"
+"455 329 LINE",
+"785 807 LINE",
+"441 -141 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"389 233 LINE",
+"375 -228 LINE",
+"71 -228 LINE"
 );
 }
 );
