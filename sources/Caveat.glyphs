@@ -230,7 +230,7 @@ capHeight = 610;
 customParameters = (
 {
 name = typoDescender;
-value = -290;
+value = -300;
 },
 {
 name = typoLineGap;
@@ -250,7 +250,7 @@ value = 960;
 },
 {
 name = hheaDescender;
-value = -290;
+value = -300;
 },
 {
 name = winDescent;
@@ -272,7 +272,7 @@ capHeight = 610;
 customParameters = (
 {
 name = typoDescender;
-value = -290;
+value = -300;
 },
 {
 name = typoLineGap;
@@ -292,7 +292,7 @@ value = 960;
 },
 {
 name = hheaDescender;
-value = -290;
+value = -300;
 },
 {
 name = winDescent;
