@@ -91,7 +91,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2017-08-30 10:30:28 +0000";
+date = "2017-09-14 09:48:39 +0000";
 designer = "Pablo Impallari";
 designerURL = "http://www.impallari.com";
 disablesAutomaticAlignment = 1;
@@ -211096,5 +211096,5 @@ manufacturer = "Pablo Impallari";
 manufacturerURL = "http://www.impallari.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 200;
+versionMinor = 300;
 }
