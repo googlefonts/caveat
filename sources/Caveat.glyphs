@@ -89,7 +89,6 @@ value = 1;
 date = "2017-08-30 10:30:28 +0000";
 designer = "Pablo Impallari";
 designerURL = "http://www.impallari.com";
-disablesAutomaticAlignment = 1;
 familyName = "Caveat CYR bet";
 featurePrefixes = (
 {
@@ -108061,6 +108060,7 @@ name = "ie-cy";
 },
 {
 name = grave;
+transform = "{1, 0, 0, 1, -14, 0}";
 }
 );
 layerId = "5B238DC5-4F6F-4A74-B879-7A3E5189648B";
@@ -108091,6 +108091,7 @@ name = "ie-cy";
 },
 {
 name = dieresis;
+transform = "{1, 0, 0, 1, -14, 0}";
 }
 );
 layerId = "5B238DC5-4F6F-4A74-B879-7A3E5189648B";
@@ -108187,6 +108188,7 @@ name = "ii-cy";
 },
 {
 name = grave;
+transform = "{1, 0, 0, 1, 11, 0}";
 }
 );
 layerId = "5B238DC5-4F6F-4A74-B879-7A3E5189648B";
@@ -108482,6 +108484,7 @@ name = "u-cy";
 },
 {
 name = "brevecomb-cy";
+transform = "{1, 0, 0, 1, -40, 0}";
 }
 );
 layerId = "5B238DC5-4F6F-4A74-B879-7A3E5189648B";
