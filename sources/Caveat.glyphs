@@ -73407,6 +73407,12 @@ nodes = (
 width = 341;
 },
 {
+anchors = (
+{
+name = top;
+position = "{339, 560}";
+}
+);
 background = {
 paths = (
 {
@@ -105853,7 +105859,7 @@ glyphname = "Nje-cy";
 layers = (
 {
 layerId = "5B238DC5-4F6F-4A74-B879-7A3E5189648B";
-width = 600;
+width = 564;
 },
 {
 layerId = "C211B134-F0DF-4134-92B2-996AB8C0D30E";
@@ -108434,6 +108440,12 @@ unicode = 0442;
 glyphname = "u-cy";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{339, 560}";
+}
+);
 components = (
 {
 name = y;
@@ -108443,6 +108455,12 @@ layerId = "5B238DC5-4F6F-4A74-B879-7A3E5189648B";
 width = 341;
 },
 {
+anchors = (
+{
+name = top;
+position = "{339, 560}";
+}
+);
 components = (
 {
 name = y;
@@ -108742,12 +108760,22 @@ unicode = 0456;
 glyphname = "yi-cy";
 layers = (
 {
+components = (
+{
+name = idieresis;
+}
+);
 layerId = "5B238DC5-4F6F-4A74-B879-7A3E5189648B";
-width = 600;
+width = 187;
 },
 {
+components = (
+{
+name = idieresis;
+}
+);
 layerId = "C211B134-F0DF-4134-92B2-996AB8C0D30E";
-width = 600;
+width = 187;
 }
 );
 unicode = 0457;
@@ -197152,6 +197180,7 @@ width = 377;
 );
 },
 {
+color = 6;
 glyphname = "brevecomb-cy.case";
 layers = (
 {
