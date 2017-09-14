@@ -1,7 +1,9 @@
 {
 .appVersion = "1057";
 DisplayStrings = (
-"/Yi-cy"
+"/Yi-cy",
+"/firsttonechinese \U00B4/breve/caron \U00B8/circumflex \U00A8/dotaccent `/hungarumlaut \U00AF/ogonek/ring/tilde/caron.alt/acute.cap/breve.cap/caron.cap/circumflex.cap/dieresis.cap/dotaccent.cap/grave.cap/hungarumlaut.cap/macron.cap/ring.cap/tilde.cap",
+"/brevecomb/brevecomb-cy"
 );
 classes = (
 {
@@ -935,7 +937,7 @@ components = (
 name = A;
 },
 {
-name = dblgravecomb.cap;
+name = dblgravecomb.case;
 transform = "{1, 0, 0, 1, 5, 0}";
 }
 );
@@ -949,7 +951,7 @@ name = A;
 transform = "{1, 0, 0, 1, -4, 0}";
 },
 {
-name = dblgravecomb.cap;
+name = dblgravecomb.case;
 transform = "{1, 0, 0, 1, 5, 0}";
 }
 );
@@ -1034,7 +1036,7 @@ components = (
 name = A;
 },
 {
-name = breveinvertedcomb.cap;
+name = breveinvertedcomb.case;
 transform = "{1, 0, 0, 1, 6, 0}";
 }
 );
@@ -1048,7 +1050,7 @@ name = A;
 transform = "{1, 0, 0, 1, -4, 0}";
 },
 {
-name = breveinvertedcomb.cap;
+name = breveinvertedcomb.case;
 transform = "{1, 0, 0, 1, 6, 0}";
 }
 );
@@ -5222,7 +5224,7 @@ components = (
 name = E;
 },
 {
-name = dblgravecomb.cap;
+name = dblgravecomb.case;
 transform = "{1, 0, 0, 1, 27, 0}";
 }
 );
@@ -5236,7 +5238,7 @@ name = E;
 transform = "{1, 0, 0, 1, -4, 0}";
 },
 {
-name = dblgravecomb.cap;
+name = dblgravecomb.case;
 transform = "{1, 0, 0, 1, 27, 0}";
 }
 );
@@ -5387,7 +5389,7 @@ components = (
 name = E;
 },
 {
-name = breveinvertedcomb.cap;
+name = breveinvertedcomb.case;
 transform = "{1, 0, 0, 1, 28, 0}";
 }
 );
@@ -5401,7 +5403,7 @@ name = E;
 transform = "{1, 0, 0, 1, -4, 0}";
 },
 {
-name = breveinvertedcomb.cap;
+name = breveinvertedcomb.case;
 transform = "{1, 0, 0, 1, 28, 0}";
 }
 );
@@ -8095,7 +8097,7 @@ components = (
 name = I;
 },
 {
-name = dblgravecomb.cap;
+name = dblgravecomb.case;
 transform = "{1, 0, 0, 1, -74, 0}";
 }
 );
@@ -8109,7 +8111,7 @@ name = I;
 transform = "{1, 0, 0, 1, -4, 0}";
 },
 {
-name = dblgravecomb.cap;
+name = dblgravecomb.case;
 transform = "{1, 0, 0, 1, -74, 0}";
 }
 );
@@ -8259,7 +8261,7 @@ components = (
 name = I;
 },
 {
-name = breveinvertedcomb.cap;
+name = breveinvertedcomb.case;
 transform = "{1, 0, 0, 1, -73, 0}";
 }
 );
@@ -8273,7 +8275,7 @@ name = I;
 transform = "{1, 0, 0, 1, -4, 0}";
 },
 {
-name = breveinvertedcomb.cap;
+name = breveinvertedcomb.case;
 transform = "{1, 0, 0, 1, -73, 0}";
 }
 );
@@ -12928,7 +12930,7 @@ components = (
 name = O;
 },
 {
-name = dblgravecomb.cap;
+name = dblgravecomb.case;
 }
 );
 layerId = "5B238DC5-4F6F-4A74-B879-7A3E5189648B";
@@ -12941,7 +12943,7 @@ name = O;
 transform = "{1, 0, 0, 1, -4, 0}";
 },
 {
-name = dblgravecomb.cap;
+name = dblgravecomb.case;
 }
 );
 layerId = "C211B134-F0DF-4134-92B2-996AB8C0D30E";
@@ -13087,7 +13089,7 @@ components = (
 name = O;
 },
 {
-name = breveinvertedcomb.cap;
+name = breveinvertedcomb.case;
 transform = "{1, 0, 0, 1, 1, 0}";
 }
 );
@@ -13101,7 +13103,7 @@ name = O;
 transform = "{1, 0, 0, 1, -4, 0}";
 },
 {
-name = breveinvertedcomb.cap;
+name = breveinvertedcomb.case;
 transform = "{1, 0, 0, 1, 1, 0}";
 }
 );
@@ -17193,7 +17195,7 @@ components = (
 name = R;
 },
 {
-name = dblgravecomb.cap;
+name = dblgravecomb.case;
 transform = "{1, 0, 0, 1, -21, 0}";
 }
 );
@@ -17206,7 +17208,7 @@ components = (
 name = R;
 },
 {
-name = dblgravecomb.cap;
+name = dblgravecomb.case;
 transform = "{1, 0, 0, 1, -21, 0}";
 }
 );
@@ -17257,7 +17259,7 @@ components = (
 name = R;
 },
 {
-name = breveinvertedcomb.cap;
+name = breveinvertedcomb.case;
 transform = "{1, 0, 0, 1, -20, 0}";
 }
 );
@@ -17270,7 +17272,7 @@ components = (
 name = R;
 },
 {
-name = breveinvertedcomb.cap;
+name = breveinvertedcomb.case;
 transform = "{1, 0, 0, 1, -20, 0}";
 }
 );
@@ -19907,7 +19909,7 @@ components = (
 name = U;
 },
 {
-name = dblgravecomb.cap;
+name = dblgravecomb.case;
 transform = "{1, 0, 0, 1, -15, 0}";
 }
 );
@@ -19920,7 +19922,7 @@ components = (
 name = U;
 },
 {
-name = dblgravecomb.cap;
+name = dblgravecomb.case;
 transform = "{1, 0, 0, 1, -15, 0}";
 }
 );
@@ -20067,7 +20069,7 @@ components = (
 name = U;
 },
 {
-name = breveinvertedcomb.cap;
+name = breveinvertedcomb.case;
 transform = "{1, 0, 0, 1, -14, 0}";
 }
 );
@@ -20080,7 +20082,7 @@ components = (
 name = U;
 },
 {
-name = breveinvertedcomb.cap;
+name = breveinvertedcomb.case;
 transform = "{1, 0, 0, 1, -14, 0}";
 }
 );
@@ -183772,6 +183774,7 @@ width = 661;
 unicode = 2120;
 },
 {
+color = 6;
 glyphname = dieresiscomb;
 layers = (
 {
@@ -184010,6 +184013,7 @@ width = 353;
 unicode = 0308;
 },
 {
+color = 6;
 glyphname = dotaccentcomb;
 layers = (
 {
@@ -184162,6 +184166,7 @@ width = 353;
 unicode = 0307;
 },
 {
+color = 6;
 glyphname = gravecomb;
 layers = (
 {
@@ -184331,6 +184336,7 @@ width = 353;
 unicode = 0300;
 },
 {
+color = 6;
 glyphname = acutecomb;
 layers = (
 {
@@ -184483,6 +184489,7 @@ width = 353;
 unicode = 0301;
 },
 {
+color = 6;
 glyphname = hungarumlautcomb;
 layers = (
 {
@@ -184709,6 +184716,7 @@ width = 353;
 unicode = 030B;
 },
 {
+color = 6;
 glyphname = caroncomb.alt;
 layers = (
 {
@@ -184868,6 +184876,7 @@ width = 353;
 );
 },
 {
+color = 6;
 glyphname = circumflexcomb;
 layers = (
 {
@@ -185026,6 +185035,7 @@ width = 353;
 unicode = 0302;
 },
 {
+color = 6;
 glyphname = caroncomb;
 layers = (
 {
@@ -185184,6 +185194,7 @@ width = 353;
 unicode = 030C;
 },
 {
+color = 6;
 glyphname = brevecomb;
 layers = (
 {
@@ -185336,6 +185347,7 @@ width = 353;
 unicode = 0306;
 },
 {
+color = 6;
 glyphname = ringcomb;
 layers = (
 {
@@ -185533,6 +185545,7 @@ width = 353;
 unicode = 030A;
 },
 {
+color = 6;
 glyphname = tildecomb;
 layers = (
 {
@@ -185761,6 +185774,7 @@ width = 353;
 unicode = 0303;
 },
 {
+color = 6;
 glyphname = macroncomb;
 layers = (
 {
@@ -185965,6 +185979,7 @@ width = 353;
 unicode = 0304;
 },
 {
+color = 6;
 glyphname = dblgravecomb;
 layers = (
 {
@@ -186261,6 +186276,7 @@ width = 353;
 unicode = 030F;
 },
 {
+color = 6;
 glyphname = breveinvertedcomb;
 layers = (
 {
@@ -186472,6 +186488,7 @@ width = 353;
 unicode = 0311;
 },
 {
+color = 6;
 glyphname = commaaccentcomb;
 layers = (
 {
@@ -186690,6 +186707,7 @@ width = 353;
 unicode = 0326;
 },
 {
+color = 6;
 glyphname = cedillacomb;
 layers = (
 {
@@ -186892,6 +186910,7 @@ width = 353;
 unicode = 0327;
 },
 {
+color = 6;
 glyphname = ogonekcomb;
 layers = (
 {
@@ -187129,7 +187148,8 @@ width = 353;
 unicode = 0328;
 },
 {
-glyphname = dieresiscomb.cap;
+color = 6;
+glyphname = dieresiscomb.case;
 layers = (
 {
 anchors = (
@@ -187357,7 +187377,8 @@ width = 496;
 );
 },
 {
-glyphname = dotaccentcomb.cap;
+color = 6;
+glyphname = dotaccentcomb.case;
 layers = (
 {
 anchors = (
@@ -187510,7 +187531,8 @@ width = 496;
 );
 },
 {
-glyphname = gravecomb.cap;
+color = 6;
+glyphname = gravecomb.case;
 layers = (
 {
 anchors = (
@@ -187680,7 +187702,8 @@ width = 496;
 );
 },
 {
-glyphname = acutecomb.cap;
+color = 6;
+glyphname = acutecomb.case;
 layers = (
 {
 anchors = (
@@ -187850,7 +187873,8 @@ width = 496;
 );
 },
 {
-glyphname = hungarumlautcomb.cap;
+color = 6;
+glyphname = hungarumlautcomb.case;
 layers = (
 {
 anchors = (
@@ -188060,7 +188084,8 @@ width = 496;
 );
 },
 {
-glyphname = circumflexcomb.cap;
+color = 6;
+glyphname = circumflexcomb.case;
 layers = (
 {
 anchors = (
@@ -188242,7 +188267,8 @@ width = 496;
 );
 },
 {
-glyphname = caroncomb.cap;
+color = 6;
+glyphname = caroncomb.case;
 layers = (
 {
 anchors = (
@@ -188424,7 +188450,8 @@ width = 496;
 );
 },
 {
-glyphname = brevecomb.cap;
+color = 6;
+glyphname = brevecomb.case;
 layers = (
 {
 anchors = (
@@ -188600,7 +188627,8 @@ width = 496;
 );
 },
 {
-glyphname = ringcomb.cap;
+color = 6;
+glyphname = ringcomb.case;
 layers = (
 {
 anchors = (
@@ -188798,7 +188826,8 @@ width = 496;
 );
 },
 {
-glyphname = tildecomb.cap;
+color = 6;
+glyphname = tildecomb.case;
 layers = (
 {
 anchors = (
@@ -189010,7 +189039,8 @@ width = 496;
 );
 },
 {
-glyphname = macroncomb.cap;
+color = 6;
+glyphname = macroncomb.case;
 layers = (
 {
 anchors = (
@@ -189198,7 +189228,8 @@ width = 496;
 );
 },
 {
-glyphname = dblgravecomb.cap;
+color = 6;
+glyphname = dblgravecomb.case;
 layers = (
 {
 anchors = (
@@ -189482,7 +189513,8 @@ width = 496;
 );
 },
 {
-glyphname = breveinvertedcomb.cap;
+color = 6;
+glyphname = breveinvertedcomb.case;
 layers = (
 {
 anchors = (
@@ -195955,15 +195987,38 @@ width = 496;
 );
 },
 {
+color = 6;
 glyphname = "brevecomb-cy";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{379, 560}";
+}
+);
+components = (
+{
+name = brevecomb;
+}
+);
 layerId = "5B238DC5-4F6F-4A74-B879-7A3E5189648B";
-width = 600;
+width = 353;
 },
 {
+anchors = (
+{
+name = _top;
+position = "{379, 560}";
+}
+);
+components = (
+{
+name = brevecomb;
+}
+);
 layerId = "C211B134-F0DF-4134-92B2-996AB8C0D30E";
-width = 600;
+width = 377;
 }
 );
 },
