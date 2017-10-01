@@ -123993,6 +123993,7 @@ width = 358;
 unicode = 043B;
 },
 {
+color = 4;
 glyphname = "em-cy";
 layers = (
 {
