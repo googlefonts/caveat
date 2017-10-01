@@ -13,3 +13,4 @@ Pablo Impallari <impallari@gmail.com>
 Dave Crossland <dcrossland@google.com>
 Marc Foley <m.foley.88@gmail.com>
 Alexei Vanyashin <a@cyreal.org>
+Eugene Spizhovy <spizhovy@gmail.com>
