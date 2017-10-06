@@ -105365,7 +105365,7 @@ width = 475;
 unicode = 0403;
 },
 {
-color = 0;
+color = 8;
 glyphname = "Gheupturn-cy";
 layers = (
 {
@@ -105861,7 +105861,7 @@ width = 557;
 unicode = 0401;
 },
 {
-color = 0;
+color = 8;
 glyphname = "Zhe-cy";
 layers = (
 {
@@ -106465,7 +106465,7 @@ rightMetricsKey = K;
 unicode = 0416;
 },
 {
-color = 0;
+color = 8;
 glyphname = "Ze-cy";
 layers = (
 {
@@ -109715,7 +109715,7 @@ width = 600;
 unicode = 0426;
 },
 {
-color = 0;
+color = 8;
 glyphname = "Sha-cy";
 layers = (
 {
@@ -109730,7 +109730,7 @@ width = 600;
 unicode = 0428;
 },
 {
-color = 0;
+color = 8;
 glyphname = "Shcha-cy";
 layers = (
 {
@@ -109745,7 +109745,7 @@ width = 600;
 unicode = 0429;
 },
 {
-color = 0;
+color = 8;
 glyphname = "Dzhe-cy";
 layers = (
 {
@@ -110072,7 +110072,7 @@ rightMetricsKey = H;
 unicode = 040F;
 },
 {
-color = 0;
+color = 8;
 glyphname = "Softsign-cy";
 layers = (
 {
@@ -110355,7 +110355,7 @@ width = 551;
 unicode = 042C;
 },
 {
-color = 0;
+color = 8;
 glyphname = "Hardsign-cy";
 layers = (
 {
@@ -110370,7 +110370,7 @@ width = 600;
 unicode = 042A;
 },
 {
-color = 0;
+color = 8;
 glyphname = "Yeru-cy";
 layers = (
 {
@@ -111014,7 +111014,7 @@ rightMetricsKey = H;
 unicode = 042B;
 },
 {
-color = 0;
+color = 8;
 glyphname = "Lje-cy";
 layers = (
 {
@@ -111029,7 +111029,7 @@ width = 600;
 unicode = 0409;
 },
 {
-color = 0;
+color = 8;
 glyphname = "Nje-cy";
 layers = (
 {
@@ -111100,7 +111100,7 @@ width = 491;
 unicode = 0404;
 },
 {
-color = 0;
+color = 8;
 glyphname = "Ereversed-cy";
 layers = (
 {
@@ -111207,7 +111207,7 @@ width = 315;
 unicode = 0408;
 },
 {
-color = 0;
+color = 8;
 glyphname = "Tshe-cy";
 layers = (
 {
@@ -111222,6 +111222,7 @@ width = 600;
 unicode = 040B;
 },
 {
+color = 8;
 glyphname = "Iu-cy";
 layers = (
 {
@@ -111468,7 +111469,7 @@ rightMetricsKey = O;
 unicode = 042E;
 },
 {
-color = 0;
+color = 8;
 glyphname = "Ia-cy";
 layers = (
 {
@@ -111874,7 +111875,7 @@ rightMetricsKey = H;
 unicode = 042F;
 },
 {
-color = 0;
+color = 8;
 glyphname = "Dje-cy";
 layers = (
 {
@@ -127588,7 +127589,7 @@ width = 600;
 unicode = 0449;
 },
 {
-color = 0;
+color = 8;
 glyphname = "dzhe-cy";
 layers = (
 {
@@ -128137,7 +128138,7 @@ width = 600;
 unicode = 044B;
 },
 {
-color = 0;
+color = 8;
 glyphname = "lje-cy";
 layers = (
 {
@@ -128152,7 +128153,7 @@ width = 600;
 unicode = 0459;
 },
 {
-color = 0;
+color = 8;
 glyphname = "nje-cy";
 layers = (
 {
