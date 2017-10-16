@@ -558,7 +558,6 @@ value = 970;
 );
 descender = -220;
 id = "5B238DC5-4F6F-4A74-B879-7A3E5189648B";
-italicAngle = 16;
 userData = {
 GSOffsetHorizontal = -2;
 GSOffsetVertical = -2;
@@ -605,7 +604,6 @@ value = 970;
 );
 descender = -220;
 id = "C211B134-F0DF-4134-92B2-996AB8C0D30E";
-italicAngle = 16;
 userData = {
 GSOffsetHorizontal = -4;
 GSOffsetVertical = -4;
