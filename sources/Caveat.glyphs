@@ -1,5 +1,8 @@
 {
 .appVersion = "1057";
+DisplayStrings = (
+"Highest:\012/Aringacute/.notdef/espaciador/Adblgrave \U00C0/Edblgrave \U00C8/Idblgrave \U00CC/Odblgrave \U00D2/Rdblgrave/Udblgrave \U00D9/Wgrave/Ygrave/Iegrave-cy/Iigrave-cy/gravecomb.case/dblgravecomb.case \012Lowest:\012/ze-cy/.notdef/espaciador/seveninferior/nineinferior/zeroinferior/eightinferior \U00C7/fourinferior/oneinferior/y.ss01/threeinferior/ef-cy/Dje-cy/sixinferior/fiveinferior/dje-cy/uni015E/uni0162/Ddotbelow"
+);
 classes = (
 {
 code = "B C D F G H J K L M N P Q R S T V W X Y Z";
@@ -549,7 +552,7 @@ value = -300;
 },
 {
 name = winDescent;
-value = 316;
+value = 315;
 },
 {
 name = winAscent;
@@ -566,6 +569,13 @@ weightValue = 400;
 xHeight = 400;
 },
 {
+alignmentZones = (
+"{720, 20}",
+"{610, 20}",
+"{400, 20}",
+"{0, -20}",
+"{-220, -20}"
+);
 ascender = 720;
 capHeight = 610;
 customParameters = (
@@ -595,7 +605,7 @@ value = -300;
 },
 {
 name = winDescent;
-value = 316;
+value = 315;
 },
 {
 name = winAscent;
@@ -118611,11 +118621,11 @@ nodes = (
 "-97 -240 OFFCURVE",
 "-100 -236 OFFCURVE",
 "-88 -265 CURVE",
-"-72 -276 OFFCURVE",
-"-54 -287 OFFCURVE",
-"-35 -299 CURVE",
-"-8 -299 OFFCURVE",
-"27 -303 OFFCURVE",
+"-64 -289 OFFCURVE",
+"-37 -299 OFFCURVE",
+"-7 -299 CURVE SMOOTH",
+"11 -299 OFFCURVE",
+"31 -295 OFFCURVE",
 "52 -288 CURVE",
 "62 -288 OFFCURVE",
 "82 -275 OFFCURVE",
@@ -118749,11 +118759,11 @@ nodes = (
 "-108 -203 OFFCURVE",
 "-104 -229 CURVE",
 "-71 -278 LINE",
-"-49 -298 OFFCURVE",
-"-34 -305 OFFCURVE",
-"-10 -315 CURVE",
-"14 -315 OFFCURVE",
-"56 -319 OFFCURVE",
+"-42 -304 OFFCURVE",
+"-19 -315 OFFCURVE",
+"10 -315 CURVE SMOOTH",
+"29 -315 OFFCURVE",
+"50 -311 OFFCURVE",
 "77 -304 CURVE",
 "89 -304 OFFCURVE",
 "111 -292 OFFCURVE",
@@ -224240,6 +224250,12 @@ keyboardIncrement = 0;
 manufacturer = "Pablo Impallari";
 manufacturerURL = "http://www.impallari.com";
 unitsPerEm = 1000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"C211B134-F0DF-4134-92B2-996AB8C0D30E" = {
+};
+};
+};
 versionMajor = 1;
 versionMinor = 300;
 }
