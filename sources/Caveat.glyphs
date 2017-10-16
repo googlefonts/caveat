@@ -92,6 +92,10 @@ value = 1;
 {
 name = "Use Line Breaks";
 value = 1;
+},
+{
+name = vendorID;
+value = CYRE;
 }
 );
 date = "2017-10-16 09:12:14 +0000";
@@ -215066,6 +215070,7 @@ width = 254;
 },
 {
 color = 4;
+export = 0;
 glyphname = "__descender-cy.case";
 layers = (
 {
@@ -215130,8 +215135,57 @@ nodes = (
 width = 226;
 },
 {
+anchors = (
+{
+name = _bottomright;
+position = "{-57, 4}";
+}
+);
 layerId = "C211B134-F0DF-4134-92B2-996AB8C0D30E";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"-26 -218 OFFCURVE",
+"-4 -223 OFFCURVE",
+"-1 -200 CURVE",
+"0 -188 OFFCURVE",
+"6 -178 OFFCURVE",
+"11 -162 CURVE",
+"40 -85 LINE",
+"47 -73 OFFCURVE",
+"51 -55 OFFCURVE",
+"58 -35 CURVE",
+"63 -25 OFFCURVE",
+"63 -12 OFFCURVE",
+"60 -5 CURVE",
+"50 10 LINE",
+"29 16 OFFCURVE",
+"27 16 OFFCURVE",
+"12 13 CURVE",
+"-57 4 LINE",
+"-69 -45 LINE",
+"-48 -47 OFFCURVE",
+"-11 -37 OFFCURVE",
+"-1 -40 CURVE",
+"0 -40 LINE",
+"-5 -65 OFFCURVE",
+"-8 -76 OFFCURVE",
+"-17 -88 CURVE SMOOTH",
+"-20 -93 OFFCURVE",
+"-33 -120 OFFCURVE",
+"-35 -130 CURVE",
+"-40 -139 OFFCURVE",
+"-48 -166 OFFCURVE",
+"-48 -187 CURVE",
+"-49 -192 OFFCURVE",
+"-44 -199 OFFCURVE",
+"-44 -198 CURVE",
+"-40 -210 LINE"
+);
+}
+);
+width = 176;
 }
 );
 },
