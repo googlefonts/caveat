@@ -1,29 +1,5 @@
 {
-.appVersion = "1057";
-DisplayStrings = (
-"/kadescender-cy j",
-"/Enhook-cy/hook-cy",
-"/Eltail-cy/tail-cy",
-"/Kadescender-cy",
-"/ef-cy/es-cy/ve-cy/u-cy \012ab\012/kadescender-cy e/ve-cy/el-cy/a-cy/er-cy \012/o-cy/kadescender-cy/o-cy/en-cy/tse-cy/ie-cy \012/o-cy/kadescender-cy/o-cy/en-cy/tse-cy/ie-cy",
-" /Dzeabkhasian-cy",
-"/dzeabkhasian-cy",
-"/zhedieresis-cy/zedieresis-cy",
-"/hastroke-cy",
-"/tail-cy",
-"/El-cy/El-cy/Eltail-cy  /tail-cy",
-"H/Iishorttail-cy H/Eltail-cy H/Entail-cy H/Emtail-cy H/De-cy H",
-"/te-cy/Shhadescender-cy/te-cy",
-"/Fita-cy",
-"/fita-cy",
-"/chekhakassian-cy",
-/hryvnia,
-"/kaverticalstroke-cy",
-"/Kaverticalstroke-cy",
-"/Kaverticalstroke-cy/kaverticalstroke-cy",
-"/kadescender-cy",
-"/Chekhakassian-cy/chekhakassian-cy"
-);
+.appVersion = "1075";
 classes = (
 {
 code = "B C D F G H J K L M N P Q R S T V W X Y Z";
