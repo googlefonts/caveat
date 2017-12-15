@@ -6,3 +6,4 @@
 # Name or Organization <email address> 
 
 Pablo Impallari <impallari@gmail.com>
+Eugene Spizhovy <spizhovy@gmail.com>
