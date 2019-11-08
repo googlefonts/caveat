@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis.cap" format="1">
+  <advance width="496"/>
+  <outline>
+    <component base="dieresis" xOffset="184" yOffset="313"/>
+    <contour>
+      <point x="534" y="785" type="move" name="_topUC"/>
+    </contour>
+  </outline>
+</glyph>

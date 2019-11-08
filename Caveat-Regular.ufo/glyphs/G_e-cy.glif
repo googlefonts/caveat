@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ge-cy" format="1">
+  <advance width="459"/>
+  <unicode hex="0413"/>
+  <outline>
+    <contour>
+      <point x="136" y="-25" type="curve"/>
+      <point x="138" y="-20"/>
+      <point x="142" y="-15"/>
+      <point x="142" y="-11" type="curve"/>
+      <point x="143" y="10"/>
+      <point x="149" y="27"/>
+      <point x="154" y="46" type="curve"/>
+      <point x="160" y="69"/>
+      <point x="167" y="91"/>
+      <point x="171" y="115" type="curve"/>
+      <point x="174" y="135"/>
+      <point x="205" y="228"/>
+      <point x="212" y="242" type="curve"/>
+      <point x="265" y="385" type="line"/>
+      <point x="277" y="420"/>
+      <point x="292" y="455"/>
+      <point x="308" y="488" type="curve"/>
+      <point x="326" y="526"/>
+      <point x="316" y="507"/>
+      <point x="335" y="543" type="curve"/>
+      <point x="354" y="552"/>
+      <point x="375" y="552"/>
+      <point x="395" y="558" type="curve"/>
+      <point x="414" y="564"/>
+      <point x="433" y="567"/>
+      <point x="453" y="568" type="curve"/>
+      <point x="473" y="577"/>
+      <point x="495" y="568"/>
+      <point x="515" y="577" type="curve"/>
+      <point x="522" y="573"/>
+      <point x="525" y="568"/>
+      <point x="530" y="557" type="curve"/>
+      <point x="536" y="556"/>
+      <point x="542" y="557"/>
+      <point x="548" y="553" type="curve"/>
+      <point x="560" y="548"/>
+      <point x="570" y="549"/>
+      <point x="585" y="557" type="curve"/>
+      <point x="594" y="562"/>
+      <point x="601" y="565"/>
+      <point x="608" y="566" type="curve"/>
+      <point x="619" y="569"/>
+      <point x="635" y="582"/>
+      <point x="646" y="589" type="curve"/>
+      <point x="646" y="608" type="line"/>
+      <point x="641" y="622"/>
+      <point x="633" y="630"/>
+      <point x="616" y="639" type="curve"/>
+      <point x="605" y="639"/>
+      <point x="596" y="642"/>
+      <point x="590" y="638" type="curve"/>
+      <point x="576" y="633"/>
+      <point x="560" y="636"/>
+      <point x="548" y="632" type="curve"/>
+      <point x="531" y="626"/>
+      <point x="495" y="630"/>
+      <point x="492" y="627" type="curve"/>
+      <point x="479" y="622"/>
+      <point x="466" y="623"/>
+      <point x="453" y="622" type="curve"/>
+      <point x="438" y="622"/>
+      <point x="312" y="593"/>
+      <point x="299" y="590" type="curve"/>
+      <point x="260" y="580"/>
+      <point x="283" y="587"/>
+      <point x="243" y="572" type="curve"/>
+      <point x="237" y="571"/>
+      <point x="210" y="566"/>
+      <point x="202" y="560" type="curve"/>
+      <point x="202" y="561"/>
+      <point x="208" y="525"/>
+      <point x="208" y="524" type="curve"/>
+      <point x="212" y="515"/>
+      <point x="235" y="506"/>
+      <point x="252" y="508" type="curve"/>
+      <point x="250" y="499"/>
+      <point x="248" y="496"/>
+      <point x="245" y="489" type="curve"/>
+      <point x="229" y="458"/>
+      <point x="209" y="393"/>
+      <point x="199" y="373" type="curve"/>
+      <point x="189" y="350"/>
+      <point x="179" y="324"/>
+      <point x="169" y="295" type="curve"/>
+      <point x="158" y="264"/>
+      <point x="146" y="233"/>
+      <point x="139" y="200" type="curve"/>
+      <point x="116" y="153" type="line"/>
+      <point x="108" y="120"/>
+      <point x="103" y="86"/>
+      <point x="93" y="54" type="curve"/>
+      <point x="88" y="37"/>
+      <point x="85" y="17"/>
+      <point x="82" y="-3" type="curve"/>
+      <point x="91" y="-15"/>
+      <point x="97" y="-19"/>
+      <point x="103" y="-22" type="curve"/>
+      <point x="121" y="-22"/>
+      <point x="131" y="-23"/>
+    </contour>
+    <contour>
+      <point x="439" y="0" type="move" name="bottomright"/>
+    </contour>
+    <contour>
+      <point x="219" y="305" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="219" y="610" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

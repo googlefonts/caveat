@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="__descender-cy.alt2" format="1">
+  <advance width="224"/>
+  <outline>
+    <contour>
+      <point x="22" y="-150" type="curve"/>
+      <point x="27" y="-166"/>
+      <point x="40" y="-178"/>
+      <point x="62" y="-190" type="curve"/>
+      <point x="85" y="-192"/>
+      <point x="101" y="-190"/>
+      <point x="116" y="-181" type="curve"/>
+      <point x="136" y="-169"/>
+      <point x="167" y="-135"/>
+      <point x="163" y="-107" type="curve"/>
+      <point x="156" y="-63"/>
+      <point x="171" y="-33"/>
+      <point x="202" y="-24" type="curve"/>
+      <point x="225" y="-17"/>
+      <point x="215" y="22"/>
+      <point x="198" y="23" type="curve"/>
+      <point x="189" y="24"/>
+      <point x="166" y="22"/>
+      <point x="138" y="8" type="curve"/>
+      <point x="101" y="-11"/>
+      <point x="93" y="-50"/>
+      <point x="86" y="-89" type="curve"/>
+      <point x="83" y="-104"/>
+      <point x="81" y="-112"/>
+      <point x="75" y="-116" type="curve"/>
+      <point x="69" y="-120"/>
+      <point x="64" y="-121"/>
+      <point x="44" y="-118" type="curve"/>
+      <point x="28" y="-116"/>
+      <point x="16" y="-134"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

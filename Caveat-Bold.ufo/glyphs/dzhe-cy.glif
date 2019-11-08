@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dzhe-cy" format="1">
+  <advance width="370"/>
+  <unicode hex="045F"/>
+  <outline>
+    <contour>
+      <point x="169" y="-109" type="curve"/>
+      <point x="189" y="-98"/>
+      <point x="197" y="-79"/>
+      <point x="206" y="-59" type="curve"/>
+      <point x="239" y="6"/>
+      <point x="231" y="-1"/>
+      <point x="253" y="30" type="curve"/>
+      <point x="257" y="36"/>
+      <point x="261" y="46"/>
+      <point x="274" y="67" type="curve"/>
+      <point x="185" y="92" type="line"/>
+      <point x="141" y="13" type="line"/>
+      <point x="130" y="-13"/>
+      <point x="113" y="-34"/>
+      <point x="107" y="-60" type="curve"/>
+      <point x="103" y="-77"/>
+      <point x="107" y="-91"/>
+      <point x="126" y="-101" type="curve"/>
+      <point x="145" y="-108"/>
+      <point x="156" y="-117"/>
+    </contour>
+    <component base="u"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>u</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kabashkir-cy" format="1">
+  <advance width="641"/>
+  <unicode hex="04A0"/>
+  <outline>
+    <contour>
+      <point x="415" y="573" type="curve"/>
+      <point x="473" y="562" type="line"/>
+      <point x="480" y="665" type="line"/>
+      <point x="472" y="664"/>
+      <point x="463" y="663"/>
+      <point x="455" y="663" type="curve"/>
+      <point x="430" y="663"/>
+      <point x="410" y="655"/>
+      <point x="397" y="655" type="curve"/>
+      <point x="392" y="655"/>
+      <point x="366" y="650"/>
+      <point x="336" y="650" type="curve"/>
+      <point x="286" y="643"/>
+      <point x="249" y="649"/>
+      <point x="214" y="628" type="curve"/>
+      <point x="192" y="615"/>
+      <point x="223" y="564"/>
+      <point x="231" y="561" type="curve"/>
+      <point x="234" y="560"/>
+      <point x="244" y="562"/>
+      <point x="256" y="565" type="curve"/>
+      <point x="284" y="572"/>
+      <point x="415" y="578"/>
+    </contour>
+    <component base="Ka-cy" xOffset="133"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=T+40</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>K</string>
+    </dict>
+  </lib>
+</glyph>

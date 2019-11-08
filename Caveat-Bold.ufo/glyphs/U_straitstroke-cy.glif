@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ustraitstroke-cy" format="1">
+  <advance width="557"/>
+  <unicode hex="04B0"/>
+  <outline>
+    <contour>
+      <point x="286" y="221" type="curve"/>
+      <point x="323" y="221"/>
+      <point x="456" y="225"/>
+      <point x="470" y="226" type="curve"/>
+      <point x="494" y="227"/>
+      <point x="530" y="229"/>
+      <point x="540" y="230" type="curve"/>
+      <point x="570" y="226"/>
+      <point x="583" y="255"/>
+      <point x="563" y="275" type="curve"/>
+      <point x="548" y="288"/>
+      <point x="527" y="295"/>
+      <point x="494" y="295" type="curve"/>
+      <point x="441" y="295"/>
+      <point x="311" y="291"/>
+      <point x="266" y="281" type="curve"/>
+      <point x="217" y="276"/>
+      <point x="201" y="265"/>
+      <point x="215" y="245" type="curve"/>
+      <point x="220" y="236"/>
+      <point x="231" y="226"/>
+      <point x="251" y="226" type="curve"/>
+      <point x="266" y="221"/>
+      <point x="278" y="221"/>
+    </contour>
+    <component base="Ustrait-cy" xOffset="53"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Ustrait-cy</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Y</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Y</string>
+    </dict>
+  </lib>
+</glyph>

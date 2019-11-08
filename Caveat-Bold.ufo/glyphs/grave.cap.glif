@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave.cap" format="1">
+  <advance width="496"/>
+  <outline>
+    <component base="grave" xOffset="210" yOffset="284"/>
+    <contour>
+      <point x="533" y="785" type="move" name="_topUC"/>
+    </contour>
+  </outline>
+</glyph>
