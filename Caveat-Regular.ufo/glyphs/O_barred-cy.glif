@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Obarred-cy" format="1">
+  <advance width="496"/>
+  <unicode hex="04E8"/>
+  <outline>
+    <contour>
+      <point x="189" y="297" type="curve"/>
+      <point x="224" y="297"/>
+      <point x="426" y="299"/>
+      <point x="438" y="299" type="curve"/>
+      <point x="462" y="299"/>
+      <point x="488" y="301"/>
+      <point x="498" y="302" type="curve"/>
+      <point x="527" y="299"/>
+      <point x="531" y="320"/>
+      <point x="514" y="340" type="curve"/>
+      <point x="502" y="354"/>
+      <point x="493" y="352"/>
+      <point x="462" y="352" type="curve"/>
+      <point x="411" y="352"/>
+      <point x="214" y="367"/>
+      <point x="169" y="360" type="curve"/>
+      <point x="123" y="355"/>
+      <point x="116" y="350"/>
+      <point x="128" y="313" type="curve"/>
+      <point x="133" y="304"/>
+      <point x="137" y="301"/>
+      <point x="157" y="301" type="curve"/>
+      <point x="169" y="297"/>
+      <point x="181" y="297"/>
+    </contour>
+    <component base="O-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Obarred-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Obarred-cy</string>
+    </dict>
+  </lib>
+</glyph>

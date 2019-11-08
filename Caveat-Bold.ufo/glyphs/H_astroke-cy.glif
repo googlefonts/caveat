@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hastroke-cy" format="1">
+  <advance width="577"/>
+  <unicode hex="04FE"/>
+  <outline>
+    <contour>
+      <point x="227" y="254" type="curve"/>
+      <point x="261" y="250"/>
+      <point x="494" y="248"/>
+      <point x="506" y="247" type="curve"/>
+      <point x="530" y="245"/>
+      <point x="556" y="244"/>
+      <point x="566" y="244" type="curve"/>
+      <point x="595" y="238"/>
+      <point x="603" y="279"/>
+      <point x="588" y="300" type="curve"/>
+      <point x="577" y="316"/>
+      <point x="568" y="314"/>
+      <point x="537" y="317" type="curve"/>
+      <point x="486" y="322"/>
+      <point x="258" y="324"/>
+      <point x="213" y="322" type="curve"/>
+      <point x="167" y="321"/>
+      <point x="159" y="317"/>
+      <point x="167" y="276" type="curve"/>
+      <point x="171" y="267"/>
+      <point x="175" y="263"/>
+      <point x="195" y="261" type="curve"/>
+      <point x="207" y="256"/>
+      <point x="219" y="255"/>
+    </contour>
+    <component base="X" xOffset="26"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>X</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

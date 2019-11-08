@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chekhakassian-cy" format="1">
+  <advance width="407"/>
+  <unicode hex="04CC"/>
+  <outline>
+    <component base="che-cy" xOffset="77"/>
+    <component base="__descender-cy.alt2" xOffset="87"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>__descender-cy.alt2</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>che-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>che-cy</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Emtail-cy" format="1">
+  <advance width="814"/>
+  <unicode hex="04CD"/>
+  <outline>
+    <component base="Em-cy"/>
+    <component base="tail-cy.case" xOffset="607" yOffset="-51"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>M</string>
+    </dict>
+  </lib>
+</glyph>

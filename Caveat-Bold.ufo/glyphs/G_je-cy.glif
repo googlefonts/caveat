@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gje-cy" format="1">
+  <advance width="463"/>
+  <unicode hex="0403"/>
+  <outline>
+    <component base="Ge-cy"/>
+    <component base="acute.cap"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Ge-cy</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>acute.cap</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Ge-cy</string>
+    </dict>
+  </lib>
+</glyph>

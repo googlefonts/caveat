@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="schwa-cy" format="1">
+  <advance width="325"/>
+  <unicode hex="04D9"/>
+  <outline>
+    <component base="schwa"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>schwa</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>schwa</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>schwa</string>
+    </dict>
+  </lib>
+</glyph>

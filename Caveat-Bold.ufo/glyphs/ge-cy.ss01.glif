@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ge-cy.ss01" format="1">
+  <advance width="322"/>
+  <outline>
+    <contour>
+      <point x="172" y="-8" type="curve"/>
+      <point x="196" y="26"/>
+      <point x="198" y="107"/>
+      <point x="213" y="148" type="curve"/>
+      <point x="216" y="157"/>
+      <point x="217" y="168"/>
+      <point x="222" y="177" type="curve"/>
+      <point x="238" y="208"/>
+      <point x="244" y="248"/>
+      <point x="253" y="282" type="curve"/>
+      <point x="256" y="292"/>
+      <point x="259" y="304"/>
+      <point x="260" y="316" type="curve"/>
+      <point x="307" y="322"/>
+      <point x="355" y="323"/>
+      <point x="403" y="323" type="curve"/>
+      <point x="429" y="323"/>
+      <point x="439" y="344"/>
+      <point x="442" y="367" type="curve"/>
+      <point x="426" y="390"/>
+      <point x="423" y="395"/>
+      <point x="399" y="410" type="curve"/>
+      <point x="369" y="414"/>
+      <point x="337" y="407"/>
+      <point x="307" y="415" type="curve"/>
+      <point x="299" y="405"/>
+      <point x="279" y="413"/>
+      <point x="267" y="409" type="curve"/>
+      <point x="239" y="411"/>
+      <point x="203" y="393"/>
+      <point x="181" y="376" type="curve"/>
+      <point x="176" y="369"/>
+      <point x="166" y="351"/>
+      <point x="167" y="343" type="curve"/>
+      <point x="162" y="328"/>
+      <point x="158" y="312"/>
+      <point x="144" y="232" type="curve"/>
+      <point x="135" y="183"/>
+      <point x="122" y="137"/>
+      <point x="103" y="91" type="curve"/>
+      <point x="100" y="85"/>
+      <point x="89" y="29"/>
+      <point x="90" y="26" type="curve"/>
+      <point x="101" y="-4"/>
+      <point x="142" y="-16"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

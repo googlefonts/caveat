@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron.cap" format="1">
+  <advance width="496"/>
+  <outline>
+    <component base="caron" xOffset="166" yOffset="277"/>
+    <contour>
+      <point x="533" y="785" type="move" name="_topUC"/>
+    </contour>
+  </outline>
+</glyph>

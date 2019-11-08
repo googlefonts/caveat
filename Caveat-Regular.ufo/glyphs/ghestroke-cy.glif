@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ghestroke-cy" format="1">
+  <advance width="256"/>
+  <unicode hex="0493"/>
+  <outline>
+    <component base="ge-cy" xOffset="-24"/>
+    <component base="strokeshortcomb" xOffset="-132" yOffset="-299"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>strokeshortcomb</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=ge-cy-30</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ge-cy</string>
+    </dict>
+  </lib>
+</glyph>

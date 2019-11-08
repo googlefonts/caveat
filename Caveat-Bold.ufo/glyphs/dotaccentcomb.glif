@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb" format="1">
+  <advance width="353"/>
+  <unicode hex="0307"/>
+  <outline>
+    <component base="dotaccent"/>
+    <contour>
+      <point x="380" y="560" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="374.471" y="540.719" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>
