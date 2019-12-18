@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gravecomb" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb" format="2">
   <advance width="353"/>
   <unicode hex="0300"/>
+  <anchor x="379" y="560" name="_top"/>
+  <anchor x="388.591" y="593.449" name="top"/>
   <outline>
     <component base="grave"/>
-    <contour>
-      <point x="379" y="560" type="move" name="_top"/>
-    </contour>
-    <contour>
-      <point x="388.591" y="593.449" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>

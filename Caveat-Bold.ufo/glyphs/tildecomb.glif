@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tildecomb" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb" format="2">
   <advance width="353"/>
   <unicode hex="0303"/>
+  <anchor x="379" y="560" name="_top"/>
+  <anchor x="372.755" y="538.22" name="top"/>
   <outline>
     <component base="tilde"/>
-    <contour>
-      <point x="379" y="560" type="move" name="_top"/>
-    </contour>
-    <contour>
-      <point x="372.755" y="538.22" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>

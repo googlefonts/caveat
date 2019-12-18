@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="caroncomb.case" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.case" format="2">
   <advance width="496"/>
+  <anchor x="533" y="785" name="_topUC"/>
   <outline>
     <component base="caron.cap"/>
-    <contour>
-      <point x="533" y="785" type="move" name="_topUC"/>
-    </contour>
   </outline>
   <lib>
     <dict>
