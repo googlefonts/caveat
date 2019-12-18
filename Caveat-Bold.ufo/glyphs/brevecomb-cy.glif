@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="brevecomb-cy" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb-cy" format="2">
   <advance width="377"/>
+  <anchor x="379" y="560" name="_top"/>
   <outline>
     <contour>
       <point x="333" y="443" type="curve"/>
@@ -49,9 +50,6 @@
       <point x="238" y="531" type="curve"/>
       <point x="257" y="470"/>
       <point x="286" y="440"/>
-    </contour>
-    <contour>
-      <point x="379" y="560" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

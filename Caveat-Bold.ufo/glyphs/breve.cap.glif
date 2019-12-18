@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="breve.cap" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve.cap" format="2">
   <advance width="496"/>
+  <anchor x="533" y="785" name="_topUC"/>
   <outline>
     <contour>
       <point x="514" y="701" type="curve"/>
@@ -21,9 +22,6 @@
       <point x="411" y="819" type="curve"/>
       <point x="392" y="743"/>
       <point x="449" y="706"/>
-    </contour>
-    <contour>
-      <point x="533" y="785" type="move" name="_topUC"/>
     </contour>
   </outline>
 </glyph>

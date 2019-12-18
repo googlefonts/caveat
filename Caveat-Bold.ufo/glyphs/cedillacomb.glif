@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="cedillacomb" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedillacomb" format="2">
   <advance width="353"/>
   <unicode hex="0327"/>
+  <anchor x="136" y="-110" name="_bottom"/>
+  <anchor x="116.1" y="-179.399" name="bottom"/>
   <outline>
     <component base="cedilla"/>
-    <contour>
-      <point x="136" y="-110" type="move" name="_bottom"/>
-    </contour>
-    <contour>
-      <point x="116.1" y="-179.399" type="move" name="bottom"/>
-    </contour>
   </outline>
   <lib>
     <dict>

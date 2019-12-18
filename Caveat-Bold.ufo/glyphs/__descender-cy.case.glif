@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="__descender-cy.case" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="__descender-cy.case" format="2">
   <advance width="264"/>
+  <anchor x="-17" y="25" name="_bottomright"/>
   <outline>
     <contour>
       <point x="60" y="-184" type="curve"/>
@@ -32,9 +33,6 @@
       <point x="15" y="-182" type="curve"/>
       <point x="28" y="-187"/>
       <point x="42" y="-197"/>
-    </contour>
-    <contour>
-      <point x="-17" y="25" type="move" name="_bottomright"/>
     </contour>
   </outline>
   <lib>

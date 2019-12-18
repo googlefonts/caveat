@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dblgravecomb" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb" format="2">
   <advance width="353"/>
   <unicode hex="030F"/>
+  <anchor x="380" y="560" name="_top"/>
   <outline>
     <contour>
       <point x="256" y="413" type="curve"/>
@@ -36,9 +37,6 @@
       <point x="365" y="439" type="curve"/>
       <point x="373" y="416"/>
       <point x="375" y="406"/>
-    </contour>
-    <contour>
-      <point x="380" y="560" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
