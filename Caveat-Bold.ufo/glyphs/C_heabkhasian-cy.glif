@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cheabkhasian-cy" format="2">
+  <advance width="704"/>
+  <unicode hex="04BC"/>
+  <outline>
+    <contour>
+      <point x="341" y="331" type="curve"/>
+      <point x="338" y="385" type="line"/>
+      <point x="310" y="380"/>
+      <point x="245" y="376"/>
+      <point x="248" y="381" type="curve"/>
+      <point x="253" y="389"/>
+      <point x="248" y="414"/>
+      <point x="241" y="418" type="curve"/>
+      <point x="236" y="421"/>
+      <point x="209" y="432"/>
+      <point x="186" y="426" type="curve"/>
+      <point x="161" y="418"/>
+      <point x="152" y="402"/>
+      <point x="150" y="373" type="curve"/>
+      <point x="149" y="359"/>
+      <point x="159" y="342"/>
+      <point x="172" y="333" type="curve"/>
+      <point x="184" y="325"/>
+      <point x="228" y="320"/>
+      <point x="257" y="321" type="curve"/>
+      <point x="285" y="326"/>
+      <point x="322" y="329"/>
+    </contour>
+    <component base="Schwa-cy" xScale="-1" yScale="-1" xOffset="868" yOffset="612"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Schwa-cy</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

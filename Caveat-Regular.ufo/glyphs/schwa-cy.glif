@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="schwa-cy" format="1">
+  <advance width="325"/>
+  <unicode hex="04D9"/>
+  <outline>
+    <component base="schwa"/>
+    <contour>
+      <point x="297" y="400" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>schwa</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>schwa</string>
+    </dict>
+  </lib>
+</glyph>

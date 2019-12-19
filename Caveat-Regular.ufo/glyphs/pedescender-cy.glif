@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pedescender-cy" format="1">
+  <advance width="429"/>
+  <unicode hex="0525"/>
+  <outline>
+    <component base="pe-cy"/>
+    <component base="__descender-cy" xOffset="318" yOffset="11"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>pe-cy</string>
+    </dict>
+  </lib>
+</glyph>

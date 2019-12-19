@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endescender-cy" format="1">
+  <advance width="399"/>
+  <unicode hex="04A3"/>
+  <outline>
+    <contour>
+      <point x="367" y="-89" type="curve"/>
+      <point x="374" y="-80"/>
+      <point x="381" y="-71"/>
+      <point x="386" y="-62" type="curve"/>
+      <point x="401" y="-34"/>
+      <point x="436" y="34"/>
+      <point x="443" y="62" type="curve"/>
+      <point x="438" y="76"/>
+      <point x="434" y="100"/>
+      <point x="428" y="100" type="curve"/>
+      <point x="408" y="113"/>
+      <point x="393" y="101"/>
+      <point x="376" y="97" type="curve"/>
+      <point x="355" y="92"/>
+      <point x="349" y="104"/>
+      <point x="312" y="90" type="curve"/>
+      <point x="300" y="71" type="line"/>
+      <point x="298" y="63"/>
+      <point x="295" y="56"/>
+      <point x="299" y="51" type="curve"/>
+      <point x="301" y="46"/>
+      <point x="309" y="43"/>
+      <point x="314" y="41" type="curve"/>
+      <point x="325" y="36"/>
+      <point x="350" y="40"/>
+      <point x="365" y="52" type="curve"/>
+      <point x="370" y="54"/>
+      <point x="375" y="46"/>
+      <point x="374" y="40" type="curve"/>
+      <point x="374" y="28"/>
+      <point x="337" y="-25"/>
+      <point x="335" y="-31" type="curve"/>
+      <point x="332" y="-41"/>
+      <point x="317" y="-73"/>
+      <point x="317" y="-87" type="curve"/>
+      <point x="332" y="-111"/>
+      <point x="352" y="-113"/>
+    </contour>
+    <component base="en-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=tse-cy-20</string>
+    </dict>
+  </lib>
+</glyph>

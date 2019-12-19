@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eldescender-cy" format="2">
+  <advance width="630"/>
+  <outline>
+    <component base="El-cy"/>
+    <component base="__descender-cy.case" xOffset="472" yOffset="-65"/>
+  </outline>
+</glyph>

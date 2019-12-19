@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="obarred-cy" format="2">
+  <advance width="362"/>
+  <outline>
+    <contour>
+      <point x="240" y="167" type="curve" smooth="yes"/>
+      <point x="275" y="167"/>
+      <point x="300" y="168"/>
+      <point x="312" y="168" type="curve" smooth="yes"/>
+      <point x="336" y="168"/>
+      <point x="362" y="170"/>
+      <point x="372" y="171" type="curve"/>
+      <point x="401" y="168"/>
+      <point x="405" y="189"/>
+      <point x="388" y="209" type="curve"/>
+      <point x="373" y="220"/>
+      <point x="367" y="221"/>
+      <point x="336" y="221" type="curve" smooth="yes"/>
+      <point x="285" y="221"/>
+      <point x="265" y="220"/>
+      <point x="220" y="213" type="curve" smooth="yes"/>
+      <point x="174" y="208"/>
+      <point x="167" y="203"/>
+      <point x="179" y="183" type="curve" smooth="yes"/>
+      <point x="184" y="174"/>
+      <point x="188" y="171"/>
+      <point x="208" y="171" type="curve"/>
+      <point x="220" y="167"/>
+      <point x="232" y="167"/>
+    </contour>
+    <component base="o-cy"/>
+  </outline>
+</glyph>

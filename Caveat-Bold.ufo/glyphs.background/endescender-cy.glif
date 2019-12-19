@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="endescender-cy" format="2">
+  <advance width="444"/>
+  <outline>
+    <component base="en-cy"/>
+    <component base="__descender-cy" xOffset="283" yOffset="-1"/>
+  </outline>
+</glyph>

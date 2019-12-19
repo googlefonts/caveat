@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ertick-cy" format="1">
+  <advance width="378"/>
+  <unicode hex="048F"/>
+  <outline>
+    <contour>
+      <point x="244" y="120" type="curve"/>
+      <point x="249" y="103"/>
+      <point x="262" y="70"/>
+      <point x="265" y="59" type="curve"/>
+      <point x="271" y="36"/>
+      <point x="280" y="11"/>
+      <point x="284" y="2" type="curve"/>
+      <point x="288" y="-27"/>
+      <point x="310" y="-26"/>
+      <point x="325" y="-4" type="curve"/>
+      <point x="335" y="11"/>
+      <point x="331" y="19"/>
+      <point x="323" y="49" type="curve"/>
+      <point x="310" y="99"/>
+      <point x="302" y="110"/>
+      <point x="284" y="151" type="curve"/>
+      <point x="267" y="194"/>
+      <point x="260" y="200"/>
+      <point x="244" y="183" type="curve"/>
+      <point x="237" y="176"/>
+      <point x="235" y="171"/>
+      <point x="240" y="152" type="curve"/>
+      <point x="239" y="139"/>
+      <point x="242" y="127"/>
+    </contour>
+    <component base="er-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>p</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>p</string>
+    </dict>
+  </lib>
+</glyph>

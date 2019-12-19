@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yat-cy" format="1">
+  <advance width="497"/>
+  <unicode hex="0462"/>
+  <outline>
+    <contour>
+      <point x="263" y="528" type="curve"/>
+      <point x="360" y="540"/>
+      <point x="483" y="548"/>
+      <point x="495" y="549" type="curve"/>
+      <point x="518" y="551"/>
+      <point x="544" y="555"/>
+      <point x="554" y="557" type="curve"/>
+      <point x="583" y="556"/>
+      <point x="586" y="577"/>
+      <point x="567" y="596" type="curve"/>
+      <point x="554" y="609"/>
+      <point x="545" y="606"/>
+      <point x="514" y="604" type="curve"/>
+      <point x="404" y="597"/>
+      <point x="337" y="587"/>
+      <point x="240" y="572" type="curve"/>
+      <point x="195" y="564"/>
+      <point x="188" y="558"/>
+      <point x="201" y="539" type="curve"/>
+      <point x="207" y="531"/>
+      <point x="211" y="528"/>
+      <point x="231" y="530" type="curve"/>
+      <point x="244" y="526"/>
+      <point x="255" y="527"/>
+    </contour>
+    <component base="Softsign-cy" xOffset="41"/>
+  </outline>
+</glyph>

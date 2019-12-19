@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tugrik" format="2">
+  <advance width="510"/>
+  <unicode hex="20AE"/>
+  <outline>
+    <contour>
+      <point x="247" y="324" type="curve"/>
+      <point x="263" y="321"/>
+      <point x="275" y="324"/>
+      <point x="282" y="326" type="curve"/>
+      <point x="319" y="337"/>
+      <point x="479" y="366"/>
+      <point x="494" y="370" type="curve"/>
+      <point x="517" y="376"/>
+      <point x="560" y="387"/>
+      <point x="569" y="390" type="curve"/>
+      <point x="600" y="390"/>
+      <point x="607" y="422"/>
+      <point x="583" y="438" type="curve"/>
+      <point x="567" y="449"/>
+      <point x="538" y="450"/>
+      <point x="504" y="443" type="curve"/>
+      <point x="451" y="432"/>
+      <point x="294" y="400"/>
+      <point x="252" y="381" type="curve"/>
+      <point x="204" y="367"/>
+      <point x="189" y="353"/>
+      <point x="208" y="336" type="curve"/>
+      <point x="215" y="328"/>
+      <point x="227" y="320"/>
+    </contour>
+    <contour>
+      <point x="213" y="160" type="curve"/>
+      <point x="229" y="157"/>
+      <point x="240" y="160"/>
+      <point x="248" y="162" type="curve"/>
+      <point x="285" y="171"/>
+      <point x="445" y="202"/>
+      <point x="460" y="206" type="curve"/>
+      <point x="483" y="212"/>
+      <point x="526" y="222"/>
+      <point x="535" y="225" type="curve"/>
+      <point x="566" y="226"/>
+      <point x="573" y="257"/>
+      <point x="549" y="274" type="curve"/>
+      <point x="533" y="285"/>
+      <point x="503" y="286"/>
+      <point x="470" y="279" type="curve"/>
+      <point x="417" y="268"/>
+      <point x="260" y="236"/>
+      <point x="218" y="217" type="curve"/>
+      <point x="170" y="203"/>
+      <point x="155" y="189"/>
+      <point x="174" y="172" type="curve"/>
+      <point x="181" y="164"/>
+      <point x="193" y="156"/>
+    </contour>
+    <component base="T" xOffset="52"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>T</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
