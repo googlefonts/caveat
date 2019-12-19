@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="firsttonechinese" format="2">
+  <advance width="353"/>
+  <outline>
+    <contour>
+      <point x="298" y="453" type="curve" smooth="yes"/>
+      <point x="335" y="453"/>
+      <point x="364" y="457"/>
+      <point x="378" y="458" type="curve" smooth="yes"/>
+      <point x="402" y="459"/>
+      <point x="438" y="461"/>
+      <point x="448" y="462" type="curve"/>
+      <point x="478" y="458"/>
+      <point x="491" y="487"/>
+      <point x="471" y="507" type="curve"/>
+      <point x="456" y="520"/>
+      <point x="435" y="527"/>
+      <point x="402" y="527" type="curve" smooth="yes"/>
+      <point x="349" y="527"/>
+      <point x="323" y="523"/>
+      <point x="278" y="513" type="curve"/>
+      <point x="229" y="508"/>
+      <point x="213" y="497"/>
+      <point x="227" y="477" type="curve"/>
+      <point x="232" y="468"/>
+      <point x="243" y="458"/>
+      <point x="263" y="458" type="curve"/>
+      <point x="278" y="453"/>
+      <point x="290" y="453"/>
+    </contour>
+  </outline>
+</glyph>
