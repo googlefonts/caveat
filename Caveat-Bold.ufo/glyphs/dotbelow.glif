@@ -3,24 +3,30 @@
   <advance width="353"/>
   <outline>
     <contour>
-      <point x="118" y="-168" type="curve"/>
-      <point x="143" y="-168"/>
-      <point x="189" y="-121"/>
-      <point x="189" y="-100" type="curve"/>
-      <point x="189" y="-75"/>
-      <point x="164" y="-47"/>
-      <point x="142" y="-47" type="curve"/>
-      <point x="136" y="-47"/>
-      <point x="131" y="-49"/>
-      <point x="126" y="-52" type="curve"/>
-      <point x="96" y="-57"/>
-      <point x="76" y="-113"/>
-      <point x="75" y="-118" type="curve"/>
-      <point x="75" y="-119"/>
-      <point x="75" y="-120"/>
-      <point x="75" y="-121" type="curve"/>
-      <point x="75" y="-139"/>
-      <point x="95" y="-168"/>
+      <point x="109" y="-139" type="curve"/>
+      <point x="119" y="-154"/>
+      <point x="135" y="-153"/>
+      <point x="155" y="-126" type="curve"/>
+      <point x="170" y="-106"/>
+      <point x="175" y="-95"/>
+      <point x="163" y="-77" type="curve"/>
+      <point x="158" y="-57"/>
+      <point x="143" y="-48"/>
+      <point x="127" y="-59" type="curve"/>
+      <point x="122" y="-60"/>
+      <point x="117" y="-68"/>
+      <point x="113" y="-71" type="curve"/>
+      <point x="105" y="-77"/>
+      <point x="97" y="-102"/>
+      <point x="95" y="-109" type="curve"/>
+      <point x="93" y="-115"/>
+      <point x="100" y="-130"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

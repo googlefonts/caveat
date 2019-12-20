@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hook-cy" format="2">
+  <advance width="199"/>
+  <anchor x="141" y="5" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="198" y="-6" type="curve"/>
+      <point x="141" y="5" type="line"/>
+      <point x="123" y="-33"/>
+      <point x="105" y="-72"/>
+      <point x="93" y="-85" type="curve"/>
+      <point x="76" y="-108"/>
+      <point x="38" y="-109"/>
+      <point x="25" y="-103" type="curve"/>
+      <point x="1" y="-92"/>
+      <point x="-21" y="-105"/>
+      <point x="-9" y="-133" type="curve"/>
+      <point x="20" y="-169"/>
+      <point x="74" y="-172"/>
+      <point x="105" y="-145" type="curve"/>
+      <point x="123" y="-132"/>
+      <point x="161" y="-83"/>
+      <point x="172" y="-59" type="curve"/>
+      <point x="183" y="-38"/>
+      <point x="192" y="-19"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>1,0,0,1</string>
+    </dict>
+  </lib>
+</glyph>
