@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex.cap" format="2">
+  <advance width="496"/>
+  <anchor x="532" y="785" name="_topUC"/>
+  <outline>
+    <contour>
+      <point x="466" y="730" type="curve"/>
+      <point x="479" y="741"/>
+      <point x="513" y="772"/>
+      <point x="538" y="786" type="curve"/>
+      <point x="558" y="769"/>
+      <point x="582" y="745"/>
+      <point x="592" y="733" type="curve"/>
+      <point x="628" y="689"/>
+      <point x="650" y="733"/>
+      <point x="634" y="755" type="curve"/>
+      <point x="629" y="761"/>
+      <point x="579" y="813"/>
+      <point x="555" y="833" type="curve"/>
+      <point x="547" y="845"/>
+      <point x="536" y="845"/>
+      <point x="524" y="835" type="curve"/>
+      <point x="496" y="820"/>
+      <point x="438" y="767"/>
+      <point x="430" y="757" type="curve"/>
+      <point x="408" y="729"/>
+      <point x="432" y="696"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,0,1</string>
+    </dict>
+  </lib>
+</glyph>

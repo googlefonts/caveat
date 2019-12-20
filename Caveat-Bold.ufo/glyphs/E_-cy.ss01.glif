@@ -5,10 +5,4 @@
     <component base="C"/>
     <component base="strokeshortcomb" xOffset="25" yOffset="-188"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
 </glyph>

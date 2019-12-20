@@ -3,31 +3,34 @@
   <advance width="199"/>
   <outline>
     <contour>
-      <point x="-31" y="-184" type="curve"/>
-      <point x="50" y="-233"/>
-      <point x="113" y="-206"/>
-      <point x="163" y="-119" type="curve"/>
-      <point x="166" y="-112"/>
-      <point x="182" y="-82"/>
-      <point x="192" y="-66" type="curve"/>
-      <point x="213" y="-35"/>
-      <point x="215" y="-15"/>
-      <point x="219" y="19" type="curve"/>
-      <point x="132" y="17" type="line"/>
-      <point x="118" y="-14"/>
-      <point x="105" y="-47"/>
-      <point x="99" y="-64" type="curve"/>
-      <point x="75" y="-121"/>
-      <point x="41" y="-144"/>
-      <point x="15" y="-128" type="curve"/>
-      <point x="6" y="-116"/>
-      <point x="-8" y="-108"/>
-      <point x="-20" y="-108" type="curve"/>
-      <point x="-30" y="-108"/>
-      <point x="-38" y="-117"/>
-      <point x="-43" y="-135" type="curve"/>
-      <point x="-51" y="-160"/>
-      <point x="-47" y="-176"/>
+      <point x="-26" y="-174" type="curve"/>
+      <point x="51" y="-220"/>
+      <point x="125" y="-190"/>
+      <point x="154" y="-112" type="curve"/>
+      <point x="154" y="-106"/>
+      <point x="160" y="-102"/>
+      <point x="160" y="-102" type="curve"/>
+      <point x="171" y="-78"/>
+      <point x="184" y="-60"/>
+      <point x="184" y="-59" type="curve"/>
+      <point x="194" y="-44"/>
+      <point x="199" y="-19"/>
+      <point x="209" y="7" type="curve"/>
+      <point x="141" y="5" type="line"/>
+      <point x="127" y="-26"/>
+      <point x="114" y="-53"/>
+      <point x="108" y="-68" type="curve"/>
+      <point x="76" y="-145"/>
+      <point x="37" y="-154"/>
+      <point x="7" y="-135" type="curve"/>
+      <point x="-2" y="-123"/>
+      <point x="-15" y="-120"/>
+      <point x="-20" y="-120" type="curve"/>
+      <point x="-26" y="-120"/>
+      <point x="-30" y="-127"/>
+      <point x="-33" y="-138" type="curve"/>
+      <point x="-39" y="-155"/>
+      <point x="-40" y="-166"/>
     </contour>
   </outline>
   <lib>
@@ -35,7 +38,7 @@
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>public.markColor</key>
-      <string>0.25,0.25,0.25,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

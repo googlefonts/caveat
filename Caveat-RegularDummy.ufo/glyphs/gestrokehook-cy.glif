@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gestrokehook-cy" format="2">
+  <advance width="253"/>
+  <unicode hex="04FB"/>
+  <outline>
+    <contour>
+      <point x="223" y="71" type="curve"/>
+      <point x="201" y="71"/>
+      <point x="186" y="65"/>
+      <point x="171" y="65" type="curve"/>
+      <point x="115" y="55" type="line"/>
+      <point x="128" y="1" type="line"/>
+      <point x="154" y="8"/>
+      <point x="188" y="17"/>
+      <point x="184" y="17" type="curve"/>
+      <point x="189" y="20"/>
+      <point x="191" y="18"/>
+      <point x="190" y="15" type="curve"/>
+      <point x="183" y="-3" type="line" smooth="yes"/>
+      <point x="157" y="-69"/>
+      <point x="106" y="-122"/>
+      <point x="83" y="-106" type="curve"/>
+      <point x="75" y="-95"/>
+      <point x="61" y="-95"/>
+      <point x="56" y="-95" type="curve"/>
+      <point x="51" y="-95"/>
+      <point x="39" y="-99"/>
+      <point x="36" y="-108" type="curve"/>
+      <point x="31" y="-123"/>
+      <point x="42" y="-132"/>
+      <point x="55" y="-139" type="curve"/>
+      <point x="132" y="-183"/>
+      <point x="214" y="-91"/>
+      <point x="246" y="-1" type="curve"/>
+      <point x="246" y="3"/>
+      <point x="247" y="6"/>
+      <point x="248" y="7" type="curve"/>
+      <point x="252" y="14"/>
+      <point x="251" y="22"/>
+      <point x="254" y="27" type="curve"/>
+      <point x="258" y="34"/>
+      <point x="260" y="39"/>
+      <point x="260" y="46" type="curve"/>
+      <point x="260" y="62"/>
+      <point x="250" y="71"/>
+    </contour>
+    <component base="ghestroke-cy" xOffset="-3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ge-cy</string>
+      <key>public.markColor</key>
+      <string>1,0,0,1</string>
+    </dict>
+  </lib>
+</glyph>
