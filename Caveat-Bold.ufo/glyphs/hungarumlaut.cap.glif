@@ -4,40 +4,39 @@
   <anchor x="533" y="785" name="_topUC"/>
   <outline>
     <contour>
-      <point x="418" y="718" type="curve"/>
-      <point x="431" y="709"/>
-      <point x="435" y="711"/>
-      <point x="448" y="731" type="curve"/>
-      <point x="466" y="755"/>
-      <point x="536" y="801"/>
-      <point x="527" y="817" type="curve"/>
-      <point x="515" y="838"/>
-      <point x="505" y="850"/>
-      <point x="493" y="845" type="curve"/>
-      <point x="474" y="838"/>
-      <point x="408" y="762"/>
-      <point x="406" y="755" type="curve"/>
-      <point x="405" y="751"/>
-      <point x="409" y="727"/>
+      <point x="397" y="715" type="curve"/>
+      <point x="434" y="702"/>
+      <point x="438" y="735"/>
+      <point x="453" y="744" type="curve"/>
+      <point x="521" y="801"/>
+      <point x="533" y="809"/>
+      <point x="531" y="831" type="curve"/>
+      <point x="521" y="866"/>
+      <point x="507" y="882"/>
+      <point x="480" y="868" type="curve"/>
+      <point x="461" y="861"/>
+      <point x="392" y="785"/>
+      <point x="385" y="769" type="curve"/>
+      <point x="382" y="741"/>
+      <point x="388" y="720"/>
     </contour>
     <contour>
-      <point x="557" y="718" type="curve"/>
-      <point x="569" y="709"/>
-      <point x="573" y="711"/>
-      <point x="586" y="731" type="curve"/>
-      <point x="604" y="755"/>
-      <point x="674" y="801"/>
-      <point x="665" y="817" type="curve"/>
-      <point x="656" y="838"/>
-      <point x="643" y="850"/>
-      <point x="631" y="845" type="curve"/>
-      <point x="613" y="838"/>
-      <point x="546" y="762"/>
-      <point x="544" y="755" type="curve"/>
-      <point x="543" y="751"/>
-      <point x="547" y="727"/>
+      <point x="556" y="717" type="curve"/>
+      <point x="568" y="708"/>
+      <point x="588" y="709"/>
+      <point x="601" y="729" type="curve"/>
+      <point x="619" y="755"/>
+      <point x="696" y="804"/>
+      <point x="692" y="828" type="curve"/>
+      <point x="679" y="875"/>
+      <point x="661" y="880"/>
+      <point x="640" y="868" type="curve"/>
+      <point x="622" y="861"/>
+      <point x="547" y="778"/>
+      <point x="544" y="769" type="curve"/>
+      <point x="543" y="758"/>
+      <point x="546" y="726"/>
     </contour>
-    <component base="hungarumlaut" xOffset="170" yOffset="282"/>
   </outline>
   <lib>
     <dict>

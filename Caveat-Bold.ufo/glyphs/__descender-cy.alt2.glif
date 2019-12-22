@@ -3,39 +3,39 @@
   <advance width="224"/>
   <outline>
     <contour>
-      <point x="53" y="-178" type="curve"/>
-      <point x="71" y="-180"/>
-      <point x="87" y="-179"/>
-      <point x="101" y="-171" type="curve"/>
-      <point x="114" y="-163"/>
-      <point x="122" y="-152"/>
-      <point x="132" y="-140" type="curve"/>
-      <point x="140" y="-130"/>
-      <point x="145" y="-117"/>
-      <point x="143" y="-94" type="curve"/>
-      <point x="139" y="-57"/>
-      <point x="138" y="-19"/>
-      <point x="187" y="-5" type="curve"/>
-      <point x="205" y="0"/>
-      <point x="203" y="22"/>
-      <point x="189" y="22" type="curve"/>
-      <point x="180" y="22"/>
-      <point x="159" y="21"/>
-      <point x="134" y="8" type="curve"/>
-      <point x="95" y="-12"/>
+      <point x="62" y="-190" type="curve"/>
+      <point x="80" y="-192"/>
+      <point x="101" y="-190"/>
+      <point x="115" y="-182" type="curve"/>
+      <point x="128" y="-174"/>
+      <point x="140" y="-164"/>
+      <point x="153" y="-144" type="curve"/>
+      <point x="165" y="-125"/>
+      <point x="164" y="-114"/>
+      <point x="162" y="-95" type="curve"/>
+      <point x="158" y="-58"/>
+      <point x="176" y="-30"/>
+      <point x="201" y="-24" type="curve"/>
+      <point x="222" y="-21"/>
+      <point x="220" y="24"/>
+      <point x="193" y="24" type="curve"/>
+      <point x="184" y="24"/>
+      <point x="148" y="16"/>
+      <point x="130" y="3" type="curve"/>
+      <point x="98" y="-16"/>
       <point x="93" y="-52"/>
       <point x="86" y="-91" type="curve"/>
       <point x="83" y="-107"/>
-      <point x="78" y="-119"/>
-      <point x="66" y="-129" type="curve"/>
-      <point x="52" y="-139"/>
-      <point x="47" y="-132"/>
-      <point x="33" y="-130" type="curve"/>
-      <point x="25" y="-129"/>
-      <point x="18" y="-138"/>
+      <point x="79" y="-116"/>
+      <point x="69" y="-119" type="curve"/>
+      <point x="64" y="-121"/>
+      <point x="55" y="-119"/>
+      <point x="41" y="-117" type="curve"/>
+      <point x="33" y="-116"/>
+      <point x="18" y="-128"/>
       <point x="21" y="-146" type="curve"/>
-      <point x="27" y="-162"/>
-      <point x="41" y="-171"/>
+      <point x="26" y="-164"/>
+      <point x="37" y="-176"/>
     </contour>
   </outline>
   <lib>
