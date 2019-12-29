@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dotaccent.cap" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccent.cap" format="2">
   <advance width="496"/>
+  <anchor x="535" y="785" name="_topUC"/>
   <outline>
     <contour>
       <point x="498" y="738" type="curve"/>
@@ -21,9 +22,6 @@
       <point x="483" y="777" type="curve"/>
       <point x="481" y="771"/>
       <point x="488" y="747"/>
-    </contour>
-    <contour>
-      <point x="535" y="785" type="move" name="_topUC"/>
     </contour>
   </outline>
 </glyph>

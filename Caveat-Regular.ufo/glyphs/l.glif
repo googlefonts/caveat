@@ -1,7 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="l" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l" format="2">
   <advance width="169"/>
   <unicode hex="006C"/>
+  <anchor x="43" y="-110" name="bottom"/>
+  <anchor x="250" y="560" name="caronalt"/>
+  <anchor x="208" y="305" name="periodcentered"/>
+  <anchor x="288" y="560" name="top"/>
   <outline>
     <contour>
       <point x="130" y="0" type="curve"/>
@@ -67,18 +71,6 @@
       <point x="92" y="112" type="curve"/>
       <point x="76" y="37"/>
       <point x="92" y="-10"/>
-    </contour>
-    <contour>
-      <point x="43" y="-110" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="250" y="560" type="move" name="caronalt"/>
-    </contour>
-    <contour>
-      <point x="208" y="305" type="move" name="periodcentered"/>
-    </contour>
-    <contour>
-      <point x="288" y="560" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

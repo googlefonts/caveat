@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dblgravecomb.case" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb.case" format="2">
   <advance width="496"/>
+  <anchor x="533" y="785" name="_topUC"/>
   <outline>
     <contour>
       <point x="430" y="719" type="curve"/>
@@ -36,14 +37,5 @@
       <point x="531" y="715"/>
       <point x="534" y="712"/>
     </contour>
-    <contour>
-      <point x="533" y="785" type="move" name="_topUC"/>
-    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -2,7 +2,7 @@
 <glyph name="U-cy" format="2">
   <advance width="543"/>
   <unicode hex="0423"/>
-  <anchor x="478" y="785" name="topUC"/>
+  <anchor x="468" y="769" name="topUC"/>
   <outline>
     <contour>
       <point x="616" y="671" type="curve"/>

@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="U-cy.ss01" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U-cy.ss01" format="2">
   <advance width="558"/>
+  <anchor x="491" y="769" name="topUC"/>
   <outline>
     <contour>
       <point x="224" y="-12" type="curve"/>
@@ -105,14 +106,5 @@
       <point x="348" y="126"/>
       <point x="353" y="124"/>
     </contour>
-    <contour>
-      <point x="491" y="769" type="move" name="topUC"/>
-    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
 </glyph>

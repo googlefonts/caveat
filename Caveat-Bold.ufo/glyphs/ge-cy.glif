@@ -2,7 +2,7 @@
 <glyph name="ge-cy" format="2">
   <advance width="307"/>
   <unicode hex="0433"/>
-  <anchor x="339" y="560" name="top"/>
+  <anchor x="349" y="560" name="top"/>
   <outline>
     <contour>
       <point x="105" y="2" type="curve"/>

@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="N" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="2">
   <advance width="599"/>
   <unicode hex="004E"/>
+  <anchor x="302" y="-110" name="bottom"/>
+  <anchor x="546" y="785" name="topUC"/>
   <outline>
     <contour>
       <point x="97" y="-62" type="curve"/>
@@ -88,12 +90,6 @@
       <point x="91" y="4" type="curve"/>
       <point x="81" y="-35"/>
       <point x="76" y="-40"/>
-    </contour>
-    <contour>
-      <point x="302" y="-110" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="546" y="785" type="move" name="topUC"/>
     </contour>
   </outline>
   <lib>

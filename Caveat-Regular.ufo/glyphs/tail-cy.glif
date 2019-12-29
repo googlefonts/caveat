@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tail-cy" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tail-cy" format="2">
   <advance width="256"/>
+  <anchor x="50" y="-6" name="_bottomright"/>
   <outline>
     <contour>
       <point x="28" y="-152" type="curve"/>
@@ -51,16 +52,11 @@
       <point x="16" y="-152"/>
       <point x="23" y="-155"/>
     </contour>
-    <contour>
-      <point x="50" y="-6" type="move" name="_bottomright"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
-      <key>public.markColor</key>
-      <string>0.25,0.25,0.25,1</string>
     </dict>
   </lib>
 </glyph>

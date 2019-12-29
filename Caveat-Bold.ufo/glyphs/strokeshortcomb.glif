@@ -2,7 +2,7 @@
 <glyph name="strokeshortcomb" format="2">
   <advance width="361"/>
   <unicode hex="0335"/>
-  <anchor x="312" y="490" name="_center"/>
+  <anchor x="322" y="490" name="_center"/>
   <outline>
     <component base="macron" xOffset="-39"/>
   </outline>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hook-cy.case" format="2">
   <advance width="199"/>
+  <anchor x="141" y="5" name="_bottomright"/>
   <outline>
     <contour>
       <point x="-34" y="-182" type="curve"/>
@@ -37,8 +38,6 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
-      <key>public.markColor</key>
-      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

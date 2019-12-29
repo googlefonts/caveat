@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="commaaccentcomb" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentcomb" format="2">
   <advance width="186"/>
   <unicode hex="0326"/>
+  <anchor x="136" y="-110" name="_bottom"/>
   <outline>
     <contour>
       <point x="72" y="-183" type="curve"/>
@@ -29,14 +30,5 @@
       <point x="58" y="-183"/>
       <point x="58" y="-183"/>
     </contour>
-    <contour>
-      <point x="136" y="-110" type="move" name="_bottom"/>
-    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
 </glyph>

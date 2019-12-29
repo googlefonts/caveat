@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="E-cy.ss02" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E-cy.ss02" format="2">
   <advance width="482"/>
   <outline>
     <component base="C.ss01"/>
     <component base="strokeshortcomb" xOffset="13" yOffset="-175"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>
