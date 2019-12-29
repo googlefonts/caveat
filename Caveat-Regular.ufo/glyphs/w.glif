@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="w" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="w" format="2">
   <advance width="517"/>
   <unicode hex="0077"/>
+  <anchor x="463" y="560" name="top"/>
   <outline>
     <contour>
       <point x="177" y="45" type="curve"/>
@@ -88,9 +89,6 @@
       <point x="128" y="173" type="curve"/>
       <point x="123" y="109"/>
       <point x="146" y="45"/>
-    </contour>
-    <contour>
-      <point x="463" y="560" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

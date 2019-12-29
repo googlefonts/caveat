@@ -2,6 +2,9 @@
 <glyph name="e" format="2">
   <advance width="334"/>
   <unicode hex="0065"/>
+  <anchor x="184" y="-110" name="bottom"/>
+  <anchor x="249" y="40" name="ogonek"/>
+  <anchor x="375" y="560" name="top"/>
   <outline>
     <contour>
       <point x="276" y="35" type="curve"/>

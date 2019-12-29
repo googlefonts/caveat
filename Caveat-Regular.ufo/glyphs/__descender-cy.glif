@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="__descender-cy" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="__descender-cy" format="2">
   <advance width="248"/>
+  <anchor x="0" y="13" name="_bottomright"/>
   <outline>
     <contour>
       <point x="79" y="-96" type="curve"/>
@@ -35,16 +36,11 @@
       <point x="40" y="-118"/>
       <point x="64" y="-120"/>
     </contour>
-    <contour>
-      <point x="0" y="13" type="move" name="_bottomright"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
-      <key>public.markColor</key>
-      <string>0.25,0.25,0.25,1</string>
     </dict>
   </lib>
 </glyph>

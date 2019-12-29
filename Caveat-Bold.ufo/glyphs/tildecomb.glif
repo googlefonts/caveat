@@ -3,7 +3,7 @@
   <advance width="353"/>
   <unicode hex="0303"/>
   <anchor x="379" y="560" name="_top"/>
-  <anchor x="372.755" y="538.22" name="top"/>
+  <anchor x="373" y="538.22" name="top"/>
   <outline>
     <component base="tilde"/>
   </outline>

@@ -2,6 +2,9 @@
 <glyph name="ka-cy" format="2">
   <advance width="396"/>
   <unicode hex="043A"/>
+  <anchor x="375" y="0" name="bottomright"/>
+  <anchor x="203" y="200" name="center"/>
+  <anchor x="358" y="400" name="top"/>
   <outline>
     <contour>
       <point x="337" y="18" type="curve"/>

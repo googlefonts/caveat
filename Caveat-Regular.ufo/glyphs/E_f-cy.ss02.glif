@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ef-cy.ss02" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ef-cy.ss02" format="2">
   <advance width="773"/>
   <outline>
     <contour>
@@ -127,10 +127,4 @@
       <point x="529" y="575"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

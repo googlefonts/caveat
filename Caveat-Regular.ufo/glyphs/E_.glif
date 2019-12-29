@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="E" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
   <advance width="529"/>
   <unicode hex="0045"/>
+  <anchor x="215" y="-110" name="bottom"/>
+  <anchor x="436" y="40" name="ogonek"/>
+  <anchor x="541" y="785" name="topUC"/>
   <outline>
     <contour>
       <point x="231" y="-24" type="curve"/>
@@ -103,15 +106,6 @@
       <point x="127" y="30" type="curve"/>
       <point x="162" y="6"/>
       <point x="190" y="-21"/>
-    </contour>
-    <contour>
-      <point x="215" y="-110" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="436" y="40" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="541" y="785" type="move" name="topUC"/>
     </contour>
   </outline>
   <lib>

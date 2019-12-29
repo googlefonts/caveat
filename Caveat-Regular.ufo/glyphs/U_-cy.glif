@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="U-cy" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U-cy" format="2">
   <advance width="512"/>
   <unicode hex="0423"/>
+  <anchor x="441" y="769" name="topUC"/>
   <outline>
     <contour>
       <point x="616" y="671" type="curve"/>
@@ -92,9 +93,6 @@
       <point x="645" y="619" type="curve"/>
       <point x="651" y="641"/>
       <point x="638" y="666"/>
-    </contour>
-    <contour>
-      <point x="441" y="769" type="move" name="topUC"/>
     </contour>
   </outline>
 </glyph>

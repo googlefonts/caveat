@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Oslash" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslash" format="2">
   <advance width="496"/>
   <unicode hex="00D8"/>
+  <anchor x="532" y="785" name="topUC"/>
   <outline>
     <contour>
       <point x="132" y="-71" type="curve"/>
@@ -131,9 +132,6 @@
       <point x="379" y="110" type="curve"/>
       <point x="321" y="43"/>
       <point x="285" y="14"/>
-    </contour>
-    <contour>
-      <point x="532" y="785" type="move" name="topUC"/>
     </contour>
   </outline>
 </glyph>

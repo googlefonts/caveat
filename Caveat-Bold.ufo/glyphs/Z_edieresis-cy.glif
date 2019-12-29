@@ -3,6 +3,7 @@
   <advance width="599"/>
   <unicode hex="04DE"/>
   <outline>
+    <component base="Ze-cy" yOffset="-29"/>
     <component base="dieresiscomb.case"/>
   </outline>
   <lib>
@@ -22,8 +23,6 @@
       <string>Ze-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>Ze-cy</string>
-      <key>public.markColor</key>
-      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

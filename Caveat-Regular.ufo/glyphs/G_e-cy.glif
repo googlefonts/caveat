@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ge-cy" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ge-cy" format="2">
   <advance width="459"/>
   <unicode hex="0413"/>
+  <anchor x="439" y="0" name="bottomright"/>
+  <anchor x="219" y="305" name="center"/>
+  <anchor x="219" y="610" name="top"/>
   <outline>
     <contour>
       <point x="136" y="-25" type="curve"/>
@@ -103,15 +106,6 @@
       <point x="103" y="-22" type="curve"/>
       <point x="121" y="-22"/>
       <point x="131" y="-23"/>
-    </contour>
-    <contour>
-      <point x="439" y="0" type="move" name="bottomright"/>
-    </contour>
-    <contour>
-      <point x="219" y="305" type="move" name="center"/>
-    </contour>
-    <contour>
-      <point x="219" y="610" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

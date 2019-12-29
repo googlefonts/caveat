@@ -3,8 +3,8 @@
   <advance width="632"/>
   <unicode hex="0419"/>
   <outline>
-    <component base="brevecomb-cy.case" xOffset="50"/>
     <component base="Ii-cy"/>
+    <component base="brevecomb-cy.case" xOffset="50"/>
   </outline>
   <lib>
     <dict>
@@ -23,8 +23,6 @@
       <string>Ii-cy</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>Ii-cy</string>
-      <key>public.markColor</key>
-      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

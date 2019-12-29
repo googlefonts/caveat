@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ka-cy" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ka-cy" format="2">
   <advance width="369"/>
   <unicode hex="043A"/>
+  <anchor x="349" y="0" name="bottomright"/>
+  <anchor x="189" y="200" name="center"/>
+  <anchor x="334" y="400" name="top"/>
   <outline>
     <contour>
       <point x="337" y="18" type="curve"/>
@@ -73,15 +76,6 @@
       <point x="286" y="57" type="curve"/>
       <point x="301" y="40"/>
       <point x="316" y="25"/>
-    </contour>
-    <contour>
-      <point x="349" y="0" type="move" name="bottomright"/>
-    </contour>
-    <contour>
-      <point x="189" y="200" type="move" name="center"/>
-    </contour>
-    <contour>
-      <point x="334" y="400" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

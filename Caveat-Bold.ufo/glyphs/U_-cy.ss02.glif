@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="U-cy.ss02" format="2">
   <advance width="617"/>
+  <anchor x="589" y="769" name="topUC"/>
   <outline>
     <contour>
       <point x="246" y="-50" type="curve"/>

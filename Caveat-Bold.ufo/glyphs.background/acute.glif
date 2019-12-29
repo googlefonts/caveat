@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acute" format="2">
   <advance width="353"/>
-  <unicode hex="00B4"/>
   <outline>
     <contour>
       <point x="359" y="430" type="curve" smooth="yes"/>

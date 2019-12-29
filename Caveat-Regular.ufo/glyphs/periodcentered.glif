@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="periodcentered" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered" format="2">
   <advance width="187"/>
   <unicode hex="00B7"/>
+  <anchor x="93" y="305" name="_periodcentered"/>
   <outline>
     <contour>
       <point x="158" y="248" type="curve"/>
@@ -22,9 +23,6 @@
       <point x="146" y="289" type="curve"/>
       <point x="140" y="289"/>
       <point x="148" y="257"/>
-    </contour>
-    <contour>
-      <point x="93" y="305" type="move" name="_periodcentered"/>
     </contour>
   </outline>
 </glyph>

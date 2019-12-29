@@ -2,6 +2,9 @@
 <glyph name="n" format="2">
   <advance width="459"/>
   <unicode hex="006E"/>
+  <anchor x="101" y="560" name="apostrophe"/>
+  <anchor x="188" y="-110" name="bottom"/>
+  <anchor x="438" y="560" name="top"/>
   <outline>
     <contour>
       <point x="454" y="46" type="curve"/>

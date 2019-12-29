@@ -2,6 +2,8 @@
 <glyph name="Dcroat" format="2">
   <advance width="578"/>
   <unicode hex="0110"/>
+  <anchor x="280" y="-110" name="bottom"/>
+  <anchor x="574" y="785" name="topUC"/>
   <outline>
     <contour>
       <point x="225" y="-95" type="curve"/>
