@@ -5,8 +5,8 @@
   <outline>
     <contour>
       <point x="258" y="-44" type="curve"/>
-      <point x="274" y="-46"/>
-      <point x="269" y="-51"/>
+      <point x="271" y="-46"/>
+      <point x="272" y="-46"/>
       <point x="292" y="28" type="curve"/>
       <point x="301" y="62"/>
       <point x="319" y="113"/>
