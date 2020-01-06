@@ -61,8 +61,12 @@
       <point x="394" y="302"/>
       <point x="395" y="311"/>
       <point x="385" y="323" type="curve"/>
-      <point x="374" y="338" type="line"/>
-      <point x="349" y="343" type="line"/>
+      <point x="381" y="328"/>
+      <point x="378" y="333"/>
+      <point x="374" y="338" type="curve"/>
+      <point x="366" y="340"/>
+      <point x="357" y="341"/>
+      <point x="349" y="343" type="curve"/>
       <point x="341" y="340"/>
       <point x="333" y="336"/>
       <point x="326" y="332" type="curve"/>
