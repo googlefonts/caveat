@@ -26,7 +26,7 @@
       <point x="428" y="251" type="curve"/>
       <point x="441" y="252" type="line"/>
       <point x="436" y="90" type="line" smooth="yes"/>
-      <point x="431" y="-5"/>
+      <point x="434" y="12"/>
       <point x="430" y="6"/>
       <point x="437" y="1" type="curve"/>
       <point x="441" y="-18"/>
