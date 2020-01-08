@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="weight" minimum="400" maximum="800" default="400"/>
+  </axes>
+  <sources>
+    <source filename="Caveat-Bold.ufo" familyname="Caveat" stylename="Bold">
+      <location>
+        <dimension name="weight" xvalue="800"/>
+      </location>
+    </source>
+    <source filename="Caveat-Regular.ufo" familyname="Caveat" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="weight" xvalue="400"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Caveat" stylename="Medium" filename="instances/Medium.ufo">
+      <location>
+        <dimension name="weight" xvalue="600"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+</designspace>
