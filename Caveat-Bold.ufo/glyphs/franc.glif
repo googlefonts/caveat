@@ -137,7 +137,7 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,1,0,1</string>
+      <string>1,0.475,0.6501,1</string>
     </dict>
   </lib>
 </glyph>

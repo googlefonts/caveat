@@ -182,7 +182,7 @@
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>N</string>
       <key>public.markColor</key>
-      <string>1,0.502,0,1</string>
+      <string>1,0.475,0.6501,1</string>
     </dict>
   </lib>
 </glyph>
