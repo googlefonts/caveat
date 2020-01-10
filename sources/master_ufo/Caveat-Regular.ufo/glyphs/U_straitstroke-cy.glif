@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ustraitstroke-cy" format="2">
+  <advance width="551"/>
+  <unicode hex="04B0"/>
+  <outline>
+    <contour>
+      <point x="286" y="229" type="curve"/>
+      <point x="321" y="229"/>
+      <point x="472" y="240"/>
+      <point x="484" y="240" type="curve"/>
+      <point x="508" y="240"/>
+      <point x="534" y="242"/>
+      <point x="544" y="243" type="curve"/>
+      <point x="573" y="240"/>
+      <point x="577" y="261"/>
+      <point x="560" y="281" type="curve"/>
+      <point x="548" y="295"/>
+      <point x="539" y="293"/>
+      <point x="508" y="293" type="curve"/>
+      <point x="457" y="293"/>
+      <point x="311" y="282"/>
+      <point x="266" y="275" type="curve"/>
+      <point x="220" y="270"/>
+      <point x="213" y="265"/>
+      <point x="225" y="245" type="curve"/>
+      <point x="230" y="236"/>
+      <point x="234" y="233"/>
+      <point x="254" y="233" type="curve"/>
+      <point x="266" y="229"/>
+      <point x="278" y="229"/>
+    </contour>
+    <component base="Ustrait-cy" xOffset="47"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Y</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Y</string>
+    </dict>
+  </lib>
+</glyph>

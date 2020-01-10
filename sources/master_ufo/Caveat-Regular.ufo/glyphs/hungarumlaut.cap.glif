@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlaut.cap" format="2">
+  <advance width="496"/>
+  <anchor x="533" y="785" name="_topUC"/>
+  <outline>
+    <contour>
+      <point x="418" y="718" type="curve"/>
+      <point x="431" y="709"/>
+      <point x="435" y="711"/>
+      <point x="448" y="731" type="curve"/>
+      <point x="466" y="755"/>
+      <point x="536" y="801"/>
+      <point x="527" y="817" type="curve"/>
+      <point x="515" y="838"/>
+      <point x="505" y="850"/>
+      <point x="493" y="845" type="curve"/>
+      <point x="474" y="838"/>
+      <point x="408" y="762"/>
+      <point x="406" y="755" type="curve"/>
+      <point x="405" y="751"/>
+      <point x="409" y="727"/>
+    </contour>
+    <contour>
+      <point x="557" y="718" type="curve"/>
+      <point x="569" y="709"/>
+      <point x="573" y="711"/>
+      <point x="586" y="731" type="curve"/>
+      <point x="604" y="755"/>
+      <point x="674" y="801"/>
+      <point x="665" y="817" type="curve"/>
+      <point x="656" y="838"/>
+      <point x="643" y="850"/>
+      <point x="631" y="845" type="curve"/>
+      <point x="613" y="838"/>
+      <point x="546" y="762"/>
+      <point x="544" y="755" type="curve"/>
+      <point x="543" y="751"/>
+      <point x="547" y="727"/>
+    </contour>
+  </outline>
+</glyph>

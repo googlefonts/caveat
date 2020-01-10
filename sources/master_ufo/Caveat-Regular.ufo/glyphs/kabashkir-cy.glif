@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kabashkir-cy" format="2">
+  <advance width="406"/>
+  <unicode hex="04A1"/>
+  <outline>
+    <contour>
+      <point x="111" y="339" type="curve"/>
+      <point x="151" y="334" type="line"/>
+      <point x="188" y="336"/>
+      <point x="220" y="338"/>
+      <point x="231" y="341" type="curve"/>
+      <point x="242" y="344"/>
+      <point x="243" y="343"/>
+      <point x="260" y="344" type="curve"/>
+      <point x="259" y="394" type="line"/>
+      <point x="218" y="392"/>
+      <point x="181" y="391"/>
+      <point x="178" y="390" type="curve"/>
+      <point x="171" y="387"/>
+      <point x="127" y="386"/>
+      <point x="117" y="388" type="curve"/>
+      <point x="111" y="388"/>
+      <point x="95" y="368"/>
+      <point x="95" y="357" type="curve"/>
+      <point x="95" y="352"/>
+      <point x="101" y="341"/>
+    </contour>
+    <component base="ka-cy" xOffset="37"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>hardsign-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ka-cy</string>
+    </dict>
+  </lib>
+</glyph>

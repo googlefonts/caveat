@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="ring.cap" format="2">
-  <advance width="496"/>
-  <anchor x="533" y="785" name="_topUC"/>
-  <outline>
-    <component base="ring" xOffset="166" yOffset="285"/>
-  </outline>
-</glyph>

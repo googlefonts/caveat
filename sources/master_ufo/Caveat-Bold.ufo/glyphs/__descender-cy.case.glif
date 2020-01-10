@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="__descender-cy.case" format="2">
+  <advance width="264"/>
+  <anchor x="-1" y="42" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="62" y="-182" type="curve"/>
+      <point x="80" y="-168"/>
+      <point x="91" y="-136"/>
+      <point x="96" y="-122" type="curve"/>
+      <point x="117" y="-71"/>
+      <point x="138" y="-36"/>
+      <point x="146" y="-20" type="curve"/>
+      <point x="157" y="0"/>
+      <point x="176" y="34"/>
+      <point x="185" y="54" type="curve"/>
+      <point x="207" y="101"/>
+      <point x="192" y="133"/>
+      <point x="137" y="133" type="curve"/>
+      <point x="111" y="133"/>
+      <point x="95" y="126"/>
+      <point x="76" y="125" type="curve"/>
+      <point x="4" y="116" type="line"/>
+      <point x="-15" y="42" type="line"/>
+      <point x="3" y="18"/>
+      <point x="40" y="18"/>
+      <point x="79" y="48" type="curve"/>
+      <point x="84" y="51"/>
+      <point x="85" y="51"/>
+      <point x="84" y="47" type="curve"/>
+      <point x="83" y="45"/>
+      <point x="62" y="-2"/>
+      <point x="56" y="-12" type="curve"/>
+      <point x="24" y="-74" type="line"/>
+      <point x="17" y="-94"/>
+      <point x="3" y="-116"/>
+      <point x="1" y="-135" type="curve"/>
+      <point x="-2" y="-163"/>
+      <point x="8" y="-180"/>
+      <point x="23" y="-186" type="curve"/>
+      <point x="38" y="-191"/>
+      <point x="45" y="-193"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

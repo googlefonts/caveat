@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pedescender-cy" format="2">
+  <advance width="665"/>
+  <unicode hex="0524"/>
+  <outline>
+    <component base="Pe-cy"/>
+    <component base="__descender-cy.case" xOffset="482" yOffset="-41"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Tse-cy</string>
+    </dict>
+  </lib>
+</glyph>

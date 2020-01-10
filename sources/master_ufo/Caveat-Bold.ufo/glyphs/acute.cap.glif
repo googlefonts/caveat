@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute.cap" format="2">
+  <advance width="496"/>
+  <anchor x="532" y="785" name="_topUC"/>
+  <outline>
+    <contour>
+      <point x="474" y="714" type="curve"/>
+      <point x="488" y="705"/>
+      <point x="505" y="707"/>
+      <point x="518" y="728" type="curve"/>
+      <point x="539" y="757"/>
+      <point x="617" y="804"/>
+      <point x="612" y="826" type="curve"/>
+      <point x="611" y="857"/>
+      <point x="586" y="880"/>
+      <point x="569" y="874" type="curve"/>
+      <point x="539" y="863"/>
+      <point x="463" y="779"/>
+      <point x="461" y="767" type="curve"/>
+      <point x="459" y="734"/>
+      <point x="464" y="723"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0,0.502,1</string>
+    </dict>
+  </lib>
+</glyph>

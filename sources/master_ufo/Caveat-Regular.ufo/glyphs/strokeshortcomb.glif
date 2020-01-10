@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokeshortcomb" format="2">
+  <advance width="337"/>
+  <unicode hex="0335"/>
+  <anchor x="301" y="490" name="_center"/>
+  <outline>
+    <component base="macron" xOffset="-51"/>
+  </outline>
+</glyph>
