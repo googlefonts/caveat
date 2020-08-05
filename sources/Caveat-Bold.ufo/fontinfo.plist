@@ -26,6 +26,10 @@
     <string>Pablo Impallari</string>
     <key>openTypeNameDesignerURL</key>
     <string>http://www.impallari.com</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameManufacturer</key>
     <string>Pablo Impallari</string>
     <key>openTypeNameManufacturerURL</key>
@@ -85,9 +89,9 @@
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>
-    <integer>1</integer>
+    <integer>2</integer>
     <key>versionMinor</key>
-    <integer>500</integer>
+    <integer>0</integer>
     <key>xHeight</key>
     <integer>400</integer>
   </dict>

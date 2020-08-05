@@ -27,20 +27,40 @@
     <key>com.schriftgestaltung.fontMaster.userData</key>
     <dict>
       <key>GSOffsetHorizontal</key>
-      <integer>-12</integer>
+      <integer>-3</integer>
       <key>GSOffsetVertical</key>
-      <integer>-12</integer>
+      <integer>-3</integer>
     </dict>
     <key>com.schriftgestaltung.fontMasterID</key>
-    <string>5B238DC5-4F6F-4A74-B879-7A3E5189648B</string>
+    <string>C211B134-F0DF-4134-92B2-996AB8C0D30E</string>
     <key>com.schriftgestaltung.glyphOrder</key>
     <false/>
+    <key>com.schriftgestaltung.master.name</key>
+    <string>Bold</string>
     <key>com.schriftgestaltung.useNiceNames</key>
     <true/>
     <key>com.schriftgestaltung.weightValue</key>
-    <integer>400</integer>
+    <integer>800</integer>
+    <key>com.typemytype.robofont.compileSettings.autohint</key>
+    <true/>
+    <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
+    <false/>
+    <key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
+    <true/>
+    <key>com.typemytype.robofont.compileSettings.decompose</key>
+    <false/>
+    <key>com.typemytype.robofont.compileSettings.generateFormat</key>
+    <integer>0</integer>
+    <key>com.typemytype.robofont.compileSettings.releaseMode</key>
+    <false/>
+    <key>com.typemytype.robofont.italicSlantOffset</key>
+    <integer>0</integer>
     <key>com.typemytype.robofont.segmentType</key>
     <string>curve</string>
+    <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
+    <integer>1</integer>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>4843995536</string>
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>
@@ -1090,5 +1110,9 @@
       <string>__descender-cy.alt2</string>
       <string>uniF6C3</string>
     </array>
+    <key>public.postscriptNames</key>
+    <dict/>
+    <key>public.skipExportGlyphs</key>
+    <array/>
   </dict>
 </plist>

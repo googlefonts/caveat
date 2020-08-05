@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.0">
   <axes>
-    <axis tag="wght" name="weight" minimum="400" maximum="800" default="400"/>
+    <axis tag="wght" name="weight" minimum="400" maximum="700" default="400"/>
   </axes>
   <sources>
     <source filename="Caveat-Bold.ufo" familyname="Caveat" stylename="Bold">
       <location>
-        <dimension name="weight" xvalue="800"/>
+        <dimension name="weight" xvalue="700"/>
       </location>
     </source>
     <source filename="Caveat-Regular.ufo" familyname="Caveat" stylename="Regular">
@@ -19,13 +19,4 @@
       </location>
     </source>
   </sources>
-  <instances>
-    <instance familyname="Caveat" stylename="Medium" filename="instances/Medium.ufo">
-      <location>
-        <dimension name="weight" xvalue="600"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-  </instances>
 </designspace>
