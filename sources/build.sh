@@ -4,11 +4,14 @@
 
 echo "Generating Static fonts"
 mkdir -p ../fonts
-fontmake -m Caveat.designspace -i -o ttf --output-dir ../fonts/ttf/
-fontmake -m Caveat.designspace -i -o otf --output-dir ../fonts/otf/
+mkdir -p ../fonts/ttf
+mkdir -p ../fonts/otf
+mkdir -p ../fonts/vf
+fontmake -m Caveat.designspace -o ttf --output-dir ../fonts/ttf/
+fontmake -m Caveat.designspace -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
-fontmake -m Caveat.designspace -o variable --output-path ../fonts/ttf/Caveat[wght].ttf
+fontmake -m Caveat.designspace -o variable --output-path ../fonts/vf/Caveat[wght].ttf
 
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/
@@ -23,7 +26,7 @@ do
 	mv "$ttf.fix" $ttf;
 done
 
-vfs=$(ls ../fonts/ttf/*\[wght\].ttf)
+vfs=$(ls ../fonts/vf/*.ttf)
 
 echo "Post processing VFs"
 for vf in $vfs
@@ -44,18 +47,20 @@ do
 	mv "$vf.fix" $vf;
 	ttx -f -x "MVAR" $vf; # Drop MVAR. Table has issue in DW
 	rtrip=$(basename -s .ttf $vf)
-	new_file=../fonts/ttf/$rtrip.ttx;
+	new_file=../fonts/vf/$rtrip.ttx;
 	rm $vf;
 	ttx $new_file
 	rm $new_file
 done
 
-echo "Fixing Hinting"
+
+echo "Fix Hinting"
 for vf in $vfs
 do
 	gftools fix-hinting $vf;
 	mv "$vf.fix" $vf;
 done
+
 for ttf in $ttfs
 do
 	gftools fix-hinting $ttf;
