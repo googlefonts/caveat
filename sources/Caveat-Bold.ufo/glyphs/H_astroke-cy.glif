@@ -4,6 +4,15 @@
   <unicode hex="04FE"/>
   <outline>
     <contour>
+      <point x="213" y="322" type="curve"/>
+      <point x="167" y="321"/>
+      <point x="159" y="317"/>
+      <point x="167" y="276" type="curve"/>
+      <point x="171" y="267"/>
+      <point x="175" y="263"/>
+      <point x="195" y="261" type="curve"/>
+      <point x="207" y="256"/>
+      <point x="219" y="255"/>
       <point x="227" y="254" type="curve"/>
       <point x="261" y="250"/>
       <point x="494" y="248"/>
@@ -19,15 +28,6 @@
       <point x="537" y="317" type="curve"/>
       <point x="486" y="322"/>
       <point x="258" y="324"/>
-      <point x="213" y="322" type="curve"/>
-      <point x="167" y="321"/>
-      <point x="159" y="317"/>
-      <point x="167" y="276" type="curve"/>
-      <point x="171" y="267"/>
-      <point x="175" y="263"/>
-      <point x="195" y="261" type="curve"/>
-      <point x="207" y="256"/>
-      <point x="219" y="255"/>
     </contour>
     <component base="X" xOffset="26"/>
   </outline>
