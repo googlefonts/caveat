@@ -28,7 +28,7 @@ ttfs=$(ls ../fonts/ttf/*.ttf)
 for ttf in $ttfs
 do
 	gftools fix-dsig -f $ttf;
-	ttfautohint $ttf "$ttf.fix";
+	python3 -m ttfautohint $ttf "$ttf.fix";
 	mv "$ttf.fix" $ttf;
 done
 
@@ -38,8 +38,8 @@ echo "Post processing VFs"
 for vf in $vfs
 do
 	gftools fix-dsig -f $vf;
-	ttfautohint-vf --stem-width-mode nnn $vf "$vf.fix";
-	mv "$vf.fix" $vf;
+	# ttfautohint-vf --stem-width-mode nnn $vf "$vf.fix";
+	# mv "$vf.fix" $vf;
 done
 
 
