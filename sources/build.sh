@@ -53,7 +53,7 @@ do
 	mv "$vf.fix" $vf;
 	ttx -f -x "MVAR" $vf; # Drop MVAR. Table has issue in DW
 	rtrip=$(basename -s .ttf $vf)
-	new_file=../fonts/vf/$rtrip.ttx;
+	new_file=../fonts/variable/$rtrip.ttx;
 	rm $vf;
 	ttx $new_file
 	rm $new_file
@@ -63,7 +63,7 @@ done
 echo "Fix Hinting"
 for vf in $vfs
 do
-	gftools fix-hinting $vf;
+	gftools fix-nonhinting $vf $vf.fix;
 	mv "$vf.fix" $vf;
 done
 
