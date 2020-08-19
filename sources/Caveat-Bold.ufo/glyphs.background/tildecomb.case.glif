@@ -2,6 +2,6 @@
 <glyph name="tildecomb.case" format="2">
   <advance width="496"/>
   <outline>
-    <component base="tilde.cap"/>
+    <component base="tildecomb.case"/>
   </outline>
 </glyph>

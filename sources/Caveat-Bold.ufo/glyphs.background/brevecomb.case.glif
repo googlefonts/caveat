@@ -2,6 +2,6 @@
 <glyph name="brevecomb.case" format="2">
   <advance width="496"/>
   <outline>
-    <component base="breve.cap"/>
+    <component base="brevecomb.case"/>
   </outline>
 </glyph>

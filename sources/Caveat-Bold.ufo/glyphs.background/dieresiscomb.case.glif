@@ -2,6 +2,6 @@
 <glyph name="dieresiscomb.case" format="2">
   <advance width="496"/>
   <outline>
-    <component base="dieresis.cap"/>
+    <component base="dieresiscomb.case"/>
   </outline>
 </glyph>

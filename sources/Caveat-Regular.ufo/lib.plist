@@ -1095,17 +1095,6 @@
       <string>ring</string>
       <string>tilde</string>
       <string>caron.alt</string>
-      <string>acute.cap</string>
-      <string>breve.cap</string>
-      <string>caron.cap</string>
-      <string>circumflex.cap</string>
-      <string>dieresis.cap</string>
-      <string>dotaccent.cap</string>
-      <string>grave.cap</string>
-      <string>hungarumlaut.cap</string>
-      <string>macron.cap</string>
-      <string>ring.cap</string>
-      <string>tilde.cap</string>
       <string>brevecomb-cy</string>
       <string>brevecomb-cy.case</string>
       <string>hook-cy</string>

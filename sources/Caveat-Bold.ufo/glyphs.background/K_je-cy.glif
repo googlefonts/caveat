@@ -3,6 +3,6 @@
   <advance width="508"/>
   <outline>
     <component base="Ka-cy"/>
-    <component base="acute.cap"/>
+    <component base="acutecomb.case"/>
   </outline>
 </glyph>

@@ -2,6 +2,6 @@
 <glyph name="hungarumlautcomb.case" format="2">
   <advance width="496"/>
   <outline>
-    <component base="hungarumlaut.cap"/>
+    <component base="hungarumlautcomb.case"/>
   </outline>
 </glyph>

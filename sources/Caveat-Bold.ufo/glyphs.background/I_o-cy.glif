@@ -3,6 +3,6 @@
   <advance width="557"/>
   <outline>
     <component base="Ie-cy"/>
-    <component base="dieresis.cap"/>
+    <component base="dieresiscomb.case"/>
   </outline>
 </glyph>
