@@ -72,3 +72,8 @@ do
 	gftools fix-hinting $ttf;
 	mv "$ttf.fix" $ttf;
 done
+
+rm -f ../fonts/variable/*.ttx
+rm -f ../fonts/ttf/*.ttx
+rm -f ../fonts/variable/*gasp.ttf
+rm -f ../fonts/ttf/*gasp.ttf
