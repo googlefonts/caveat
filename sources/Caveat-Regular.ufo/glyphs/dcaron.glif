@@ -4,6 +4,6 @@
   <unicode hex="010F"/>
   <outline>
     <component base="d"/>
-    <component base="caron.alt" xOffset="207"/>
+    <component base="caroncomb.alt" xOffset="207"/>
   </outline>
 </glyph>
