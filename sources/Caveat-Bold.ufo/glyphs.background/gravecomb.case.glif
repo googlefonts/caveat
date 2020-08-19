@@ -2,6 +2,6 @@
 <glyph name="gravecomb.case" format="2">
   <advance width="496"/>
   <outline>
-    <component base="grave.cap"/>
+    <component base="gravecomb.case"/>
   </outline>
 </glyph>

@@ -3,6 +3,6 @@
   <advance width="557"/>
   <outline>
     <component base="Ie-cy"/>
-    <component base="grave.cap"/>
+    <component base="gravecomb.case"/>
   </outline>
 </glyph>

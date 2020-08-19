@@ -2,6 +2,6 @@
 <glyph name="dotaccentcomb.case" format="2">
   <advance width="496"/>
   <outline>
-    <component base="dotaccent.cap"/>
+    <component base="dotaccentcomb.case"/>
   </outline>
 </glyph>
