@@ -2,7 +2,6 @@
 <glyph name="apostrophe" format="2">
   <advance width="353"/>
   <unicode hex="02BC"/>
-  <anchor x="204" y="560" name="_apostrophe"/>
   <outline>
     <contour>
       <point x="338" y="446" type="curve"/>
