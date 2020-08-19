@@ -4,7 +4,7 @@
   <unicode hex="045D"/>
   <outline>
     <component base="u.ss01"/>
-    <component base="grave"/>
+    <component base="gravecomb"/>
   </outline>
   <lib>
     <dict>
