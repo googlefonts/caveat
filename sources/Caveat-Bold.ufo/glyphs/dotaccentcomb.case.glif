@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccentcomb.case" format="2">
-  <advance width="496"/>
   <anchor x="535" y="785" name="_topUC"/>
   <anchor x="553" y="961" name="topUC"/>
   <outline>
@@ -25,4 +24,10 @@
       <point x="485" y="745"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>496</integer>
+    </dict>
+  </lib>
 </glyph>

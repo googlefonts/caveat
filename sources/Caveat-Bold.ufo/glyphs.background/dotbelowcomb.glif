@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotbelowcomb" format="2">
-  <advance width="353"/>
+  <unicode hex="0323"/>
   <outline>
     <contour>
       <point x="118" y="-168" type="curve" smooth="yes"/>
@@ -23,4 +23,10 @@
       <point x="95" y="-168"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>353</integer>
+    </dict>
+  </lib>
 </glyph>
