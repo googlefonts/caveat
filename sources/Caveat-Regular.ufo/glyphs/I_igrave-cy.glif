@@ -4,7 +4,7 @@
   <unicode hex="040D"/>
   <outline>
     <component base="Ii-cy"/>
-    <component base="grave.cap"/>
+    <component base="gravecomb.case"/>
   </outline>
   <lib>
     <dict>

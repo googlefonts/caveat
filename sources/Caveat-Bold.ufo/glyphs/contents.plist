@@ -816,8 +816,6 @@
     <string>acircumflex.glif</string>
     <key>acute</key>
     <string>acute.glif</string>
-    <key>acute.cap</key>
-    <string>acute.cap.glif</string>
     <key>acutecomb</key>
     <string>acutecomb.glif</string>
     <key>acutecomb.case</key>
@@ -888,8 +886,6 @@
     <string>bracketright.glif</string>
     <key>breve</key>
     <string>breve.glif</string>
-    <key>breve.cap</key>
-    <string>breve.cap.glif</string>
     <key>brevecomb</key>
     <string>brevecomb.glif</string>
     <key>brevecomb-cy</key>
@@ -916,10 +912,6 @@
     <string>cacute.glif</string>
     <key>caron</key>
     <string>caron.glif</string>
-    <key>caron.alt</key>
-    <string>caron.alt.glif</string>
-    <key>caron.cap</key>
-    <string>caron.cap.glif</string>
     <key>caroncomb</key>
     <string>caroncomb.glif</string>
     <key>caroncomb.alt</key>
@@ -960,8 +952,6 @@
     <string>cheverticalstroke-cy.glif</string>
     <key>circumflex</key>
     <string>circumflex.glif</string>
-    <key>circumflex.cap</key>
-    <string>circumflex.cap.glif</string>
     <key>circumflexcomb</key>
     <string>circumflexcomb.glif</string>
     <key>circumflexcomb.case</key>
@@ -1010,8 +1000,6 @@
     <string>degree.glif</string>
     <key>dieresis</key>
     <string>dieresis.glif</string>
-    <key>dieresis.cap</key>
-    <string>dieresis.cap.glif</string>
     <key>dieresiscomb</key>
     <string>dieresiscomb.glif</string>
     <key>dieresiscomb.case</key>
@@ -1024,14 +1012,12 @@
     <string>dollar.glif</string>
     <key>dotaccent</key>
     <string>dotaccent.glif</string>
-    <key>dotaccent.cap</key>
-    <string>dotaccent.cap.glif</string>
     <key>dotaccentcomb</key>
     <string>dotaccentcomb.glif</string>
     <key>dotaccentcomb.case</key>
     <string>dotaccentcomb.case.glif</string>
-    <key>dotbelow</key>
-    <string>dotbelow.glif</string>
+    <key>dotbelowcomb</key>
+    <string>dotbelowcomb.glif</string>
     <key>dotlessi</key>
     <string>dotlessi.glif</string>
     <key>dotlessj</key>
@@ -1268,8 +1254,6 @@
     <string>gje-cy.glif</string>
     <key>grave</key>
     <string>grave.glif</string>
-    <key>grave.cap</key>
-    <string>grave.cap.glif</string>
     <key>gravecomb</key>
     <string>gravecomb.glif</string>
     <key>gravecomb.case</key>
@@ -1326,8 +1310,6 @@
     <string>hryvnia.glif</string>
     <key>hungarumlaut</key>
     <string>hungarumlaut.glif</string>
-    <key>hungarumlaut.cap</key>
-    <string>hungarumlaut.cap.glif</string>
     <key>hungarumlautcomb</key>
     <string>hungarumlautcomb.glif</string>
     <key>hungarumlautcomb.case</key>
@@ -1496,8 +1478,6 @@
     <string>m.ss02.glif</string>
     <key>macron</key>
     <string>macron.glif</string>
-    <key>macron.cap</key>
-    <string>macron.cap.glif</string>
     <key>macroncomb</key>
     <string>macroncomb.glif</string>
     <key>macroncomb.case</key>
@@ -1708,8 +1688,6 @@
     <string>rightanglebracket-math.glif</string>
     <key>ring</key>
     <string>ring.glif</string>
-    <key>ring.cap</key>
-    <string>ring.cap.glif</string>
     <key>ringcomb</key>
     <string>ringcomb.glif</string>
     <key>ringcomb.case</key>
@@ -1848,8 +1826,6 @@
     <string>threesuperior.glif</string>
     <key>tilde</key>
     <string>tilde.glif</string>
-    <key>tilde.cap</key>
-    <string>tilde.cap.glif</string>
     <key>tildecomb</key>
     <string>tildecomb.glif</string>
     <key>tildecomb.case</key>

@@ -3,6 +3,6 @@
   <advance width="463"/>
   <outline>
     <component base="Ge-cy"/>
-    <component base="acute.cap"/>
+    <component base="acutecomb.case"/>
   </outline>
 </glyph>

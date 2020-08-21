@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dblgravecomb" format="2">
-  <advance width="353"/>
   <unicode hex="030F"/>
   <anchor x="380" y="560" name="_top"/>
+  <anchor x="383" y="743" name="top"/>
   <outline>
     <contour>
       <point x="256" y="413" type="curve"/>
@@ -39,4 +39,10 @@
       <point x="375" y="406"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>353</integer>
+    </dict>
+  </lib>
 </glyph>

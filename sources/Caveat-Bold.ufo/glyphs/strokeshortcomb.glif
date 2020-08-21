@@ -1,9 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="strokeshortcomb" format="2">
-  <advance width="361"/>
   <unicode hex="0335"/>
   <anchor x="322" y="490" name="_center"/>
   <outline>
-    <component base="macron" xOffset="-39"/>
+    <component base="macroncomb" xOffset="-39"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>361</integer>
+    </dict>
+  </lib>
 </glyph>

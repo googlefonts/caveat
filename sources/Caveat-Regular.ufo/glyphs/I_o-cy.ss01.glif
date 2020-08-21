@@ -3,7 +3,7 @@
   <advance width="498"/>
   <outline>
     <component base="Ie-cy.ss01" xOffset="-64"/>
-    <component base="dieresis.cap" xOffset="-64"/>
+    <component base="dieresiscomb.case" xOffset="-64"/>
   </outline>
   <lib>
     <dict>

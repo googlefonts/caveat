@@ -4,7 +4,7 @@
   <unicode hex="0401"/>
   <outline>
     <component base="Ie-cy"/>
-    <component base="dieresis.cap"/>
+    <component base="dieresiscomb.case"/>
   </outline>
   <lib>
     <dict>
