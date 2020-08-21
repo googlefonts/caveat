@@ -2,6 +2,7 @@
 <glyph name="ringcomb.case" format="2">
   <advance width="496"/>
   <anchor x="533" y="785" name="_topUC"/>
+  <anchor x="553" y="961" name="topUC"/>
   <outline>
     <contour>
       <point x="524" y="685" type="curve" smooth="yes"/>
