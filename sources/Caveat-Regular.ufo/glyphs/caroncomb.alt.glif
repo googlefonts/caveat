@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caroncomb.alt" format="2">
-  <advance width="353"/>
   <anchor x="206" y="560" name="_caronalt"/>
   <outline>
     <contour>
@@ -30,4 +29,10 @@
       <point x="324" y="446"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>353</integer>
+    </dict>
+  </lib>
 </glyph>

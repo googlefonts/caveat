@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tildecomb.case" format="2">
-  <advance width="496"/>
   <anchor x="534" y="785" name="_topUC"/>
   <anchor x="553" y="941" name="topUC"/>
   <outline>
@@ -43,4 +42,10 @@
       <point x="548" y="726"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>496</integer>
+    </dict>
+  </lib>
 </glyph>

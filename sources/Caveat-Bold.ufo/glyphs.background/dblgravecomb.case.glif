@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dblgravecomb.case" format="2">
-  <advance width="496"/>
   <outline>
     <component base="grave" xOffset="81" yOffset="284"/>
     <component base="grave" xOffset="202" yOffset="284"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>496</integer>
+      <key>public.markColor</key>
+      <string>0.502,0,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>
