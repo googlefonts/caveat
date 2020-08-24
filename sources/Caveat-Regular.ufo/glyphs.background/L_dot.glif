@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ldot" format="2">
+  <advance width="426"/>
+  <unicode hex="013F"/>
+  <outline>
+    <contour>
+      <point x="165" y="-25"/>
+      <point x="117" y="20"/>
+      <point x="105" y="64" type="curve"/>
+      <point x="102" y="84" name="inserted"/>
+      <point x="101.0" y="107"/>
+      <point x="101" y="131" type="curve"/>
+      <point x="101.0" y="147" name="inserted"/>
+      <point x="103" y="157"/>
+      <point x="104" y="158" type="curve"/>
+      <point x="107" y="159" name="inserted"/>
+      <point x="107.0" y="163"/>
+      <point x="107" y="170" type="curve"/>
+      <point x="107.0" y="174" name="inserted"/>
+      <point x="109" y="186"/>
+      <point x="114" y="203" type="curve"/>
+      <point x="119" y="215" name="inserted"/>
+      <point x="121" y="226"/>
+      <point x="118" y="234" type="curve"/>
+      <point x="119" y="237"/>
+      <point x="123" y="244"/>
+      <point x="128" y="251" type="curve"/>
+      <point x="135" y="258"/>
+      <point x="134" y="266"/>
+      <point x="133" y="269" type="curve"/>
+      <point x="133" y="270" type="line"/>
+      <point x="133.0" y="275"/>
+      <point x="137" y="286"/>
+      <point x="141" y="291" type="curve"/>
+      <point x="145" y="295"/>
+      <point x="149" y="303"/>
+      <point x="150" y="306" type="curve"/>
+      <point x="151" y="315"/>
+      <point x="178" y="385"/>
+      <point x="185" y="396" type="curve"/>
+      <point x="185" y="398" type="line"/>
+      <point x="188" y="405" name="inserted"/>
+      <point x="192" y="412"/>
+      <point x="196" y="419" type="curve"/>
+      <point x="197" y="428" name="inserted"/>
+      <point x="202" y="442"/>
+      <point x="210" y="458" type="curve"/>
+      <point x="241" y="526"/>
+      <point x="308" y="634"/>
+      <point x="340" y="665" type="curve"/>
+      <point x="353" y="680"/>
+      <point x="361" y="685.0"/>
+      <point x="369" y="685" type="curve"/>
+      <point x="376" y="685.0" name="inserted"/>
+      <point x="383" y="680"/>
+      <point x="392" y="671" type="curve"/>
+      <point x="400" y="663" name="inserted"/>
+      <point x="404.0" y="652"/>
+      <point x="404" y="639" type="curve"/>
+      <point x="404.0" y="632" name="inserted"/>
+      <point x="403" y="628.0"/>
+      <point x="400" y="628" type="curve"/>
+      <point x="383" y="616"/>
+      <point x="317" y="522"/>
+      <point x="285" y="463" type="curve"/>
+      <point x="268" y="425"/>
+      <point x="254" y="399"/>
+      <point x="250" y="391" type="curve"/>
+      <point x="246" y="382" type="line"/>
+      <point x="230" y="349" name="inserted"/>
+      <point x="216" y="312"/>
+      <point x="201" y="272" type="curve"/>
+      <point x="194" y="264"/>
+      <point x="193.0" y="254"/>
+      <point x="193" y="251" type="curve"/>
+      <point x="190" y="252"/>
+      <point x="189" y="241"/>
+      <point x="186" y="234" type="curve"/>
+      <point x="182" y="230" name="inserted"/>
+      <point x="179.0" y="221"/>
+      <point x="179" y="205" type="curve"/>
+      <point x="164" y="169"/>
+      <point x="153" y="103"/>
+      <point x="156" y="76" type="curve"/>
+      <point x="159" y="55" name="inserted"/>
+      <point x="178" y="36"/>
+      <point x="211" y="23" type="curve"/>
+      <point x="227" y="18" name="inserted"/>
+      <point x="238" y="14.0"/>
+      <point x="245" y="14" type="curve"/>
+      <point x="254" y="13"/>
+      <point x="275" y="16"/>
+      <point x="300" y="20" type="curve"/>
+      <point x="299" y="20" type="line"/>
+      <point x="303" y="21" name="inserted"/>
+      <point x="321" y="25"/>
+      <point x="354" y="32" type="curve"/>
+      <point x="370" y="35" name="inserted"/>
+      <point x="383" y="37"/>
+      <point x="394" y="41" type="curve"/>
+      <point x="414" y="48" name="inserted"/>
+      <point x="428" y="50.0"/>
+      <point x="433" y="50" type="curve"/>
+      <point x="437" y="50.0" name="inserted"/>
+      <point x="440" y="49"/>
+      <point x="441" y="48" type="curve"/>
+      <point x="446" y="44" name="inserted"/>
+      <point x="449.0" y="40"/>
+      <point x="449" y="33" type="curve"/>
+      <point x="447" y="24" type="line"/>
+      <point x="443" y="13"/>
+      <point x="395" y="-13"/>
+      <point x="359" y="-24" type="curve"/>
+      <point x="331" y="-36"/>
+      <point x="292" y="-43.0"/>
+      <point x="257" y="-43" type="curve"/>
+      <point x="240" y="-43.0" name="inserted"/>
+      <point x="226" y="-41"/>
+      <point x="217" y="-38" type="curve"/>
+    </contour>
+    <contour>
+      <point x="389" y="257"/>
+      <point x="379" y="289.0"/>
+      <point x="386" y="289" type="curve"/>
+      <point x="397" y="290"/>
+      <point x="415" y="319"/>
+      <point x="414" y="334" type="curve"/>
+      <point x="414.0" y="339"/>
+      <point x="419" y="345"/>
+      <point x="424" y="346" type="curve"/>
+      <point x="429" y="350" name="inserted"/>
+      <point x="434" y="351.0"/>
+      <point x="438" y="351" type="curve"/>
+      <point x="450" y="351.0" name="inserted"/>
+      <point x="460" y="343"/>
+      <point x="469" y="327" type="curve"/>
+      <point x="473" y="319" name="inserted"/>
+      <point x="475.0" y="311"/>
+      <point x="475" y="304" type="curve"/>
+      <point x="475.0" y="292"/>
+      <point x="469" y="281"/>
+      <point x="452" y="261" type="curve"/>
+      <point x="441" y="246" name="inserted"/>
+      <point x="431" y="238.0"/>
+      <point x="420" y="238" type="curve"/>
+      <point x="413" y="238.0" name="inserted"/>
+      <point x="406" y="241"/>
+      <point x="398" y="248" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

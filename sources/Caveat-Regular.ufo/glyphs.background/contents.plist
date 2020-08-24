@@ -4,6 +4,8 @@
   <dict>
     <key>Be-cy.ss01</key>
     <string>B_e-cy.ss01.glif</string>
+    <key>Ldot</key>
+    <string>L_dot.glif</string>
     <key>M.ss02</key>
     <string>M_.ss02.glif</string>
     <key>OE</key>
@@ -34,6 +36,8 @@
     <string>hryvnia.glif</string>
     <key>kaverticalstroke-cy</key>
     <string>kaverticalstroke-cy.glif</string>
+    <key>ldot</key>
+    <string>ldot.glif</string>
     <key>minute</key>
     <string>minute.glif</string>
     <key>ninesuperior</key>
