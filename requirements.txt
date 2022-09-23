@@ -36,7 +36,7 @@ lxml==4.5.2
 MarkupSafe==1.1.1
 opentype-sanitizer==8.0.0.post2
 Pillow==7.2.0
-protobuf==3.12.4
+protobuf==3.18.3
 pybrowserstack-screenshots==0.1
 pycairo==1.19.1
 pyclipper==1.2.0
