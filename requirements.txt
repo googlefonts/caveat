@@ -54,7 +54,7 @@ simplejson==3.17.2
 six==1.15.0
 smmap==3.0.4
 smmap2==3.0.1
-soupsieve==2.0.1
+soupsieve==2.8.4
 strictyaml==1.0.7
 tabulate==0.8.7
 ttfautohint-py==0.4.3
